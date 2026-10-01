@@ -1,0 +1,168 @@
+{
+  "generatedAt": "2026-10-01T09:33:02.043687+00:00",
+  "command": "python scripts/verify_samples.py",
+  "checked": 32,
+  "passed": 32,
+  "results": [
+    {
+      "file": "evidence/samples/affine/pulih-audio-contoh.wav",
+      "ok": true,
+      "detail": "WAV valid, 8000 frame, 8000 Hz, durasi 1.00 detik"
+    },
+    {
+      "file": "evidence/samples/affine/pulih-database-contoh.sqlite",
+      "ok": true,
+      "detail": "integrity_check ok, 5 baris mahasiswa, rata-rata nilai 81.2"
+    },
+    {
+      "file": "evidence/samples/affine/pulih-gambar-contoh.png",
+      "ok": true,
+      "detail": "PNG valid 96x64, CRC semua chunk cocok"
+    },
+    {
+      "file": "evidence/samples/affine/pulih-teks-contoh.txt",
+      "ok": true,
+      "detail": "UTF-8 valid, 5 baris"
+    },
+    {
+      "file": "evidence/samples/autokey/pulih-audio-contoh.wav",
+      "ok": true,
+      "detail": "WAV valid, 8000 frame, 8000 Hz, durasi 1.00 detik"
+    },
+    {
+      "file": "evidence/samples/autokey/pulih-database-contoh.sqlite",
+      "ok": true,
+      "detail": "integrity_check ok, 5 baris mahasiswa, rata-rata nilai 81.2"
+    },
+    {
+      "file": "evidence/samples/autokey/pulih-gambar-contoh.png",
+      "ok": true,
+      "detail": "PNG valid 96x64, CRC semua chunk cocok"
+    },
+    {
+      "file": "evidence/samples/autokey/pulih-teks-contoh.txt",
+      "ok": true,
+      "detail": "UTF-8 valid, 5 baris"
+    },
+    {
+      "file": "evidence/samples/enigma-i/pulih-audio-contoh.wav",
+      "ok": true,
+      "detail": "WAV valid, 8000 frame, 8000 Hz, durasi 1.00 detik"
+    },
+    {
+      "file": "evidence/samples/enigma-i/pulih-database-contoh.sqlite",
+      "ok": true,
+      "detail": "integrity_check ok, 5 baris mahasiswa, rata-rata nilai 81.2"
+    },
+    {
+      "file": "evidence/samples/enigma-i/pulih-gambar-contoh.png",
+      "ok": true,
+      "detail": "PNG valid 96x64, CRC semua chunk cocok"
+    },
+    {
+      "file": "evidence/samples/enigma-i/pulih-teks-contoh.txt",
+      "ok": true,
+      "detail": "UTF-8 valid, 5 baris"
+    },
+    {
+      "file": "evidence/samples/extended-vigenere/pulih-audio-contoh.wav",
+      "ok": true,
+      "detail": "WAV valid, 8000 frame, 8000 Hz, durasi 1.00 detik"
+    },
+    {
+      "file": "evidence/samples/extended-vigenere/pulih-database-contoh.sqlite",
+      "ok": true,
+      "detail": "integrity_check ok, 5 baris mahasiswa, rata-rata nilai 81.2"
+    },
+    {
+      "file": "evidence/samples/extended-vigenere/pulih-gambar-contoh.png",
+      "ok": true,
+      "detail": "PNG valid 96x64, CRC semua chunk cocok"
+    },
+    {
+      "file": "evidence/samples/extended-vigenere/pulih-teks-contoh.txt",
+      "ok": true,
+      "detail": "UTF-8 valid, 5 baris"
+    },
+    {
+      "file": "evidence/samples/hill/pulih-audio-contoh.wav",
+      "ok": true,
+      "detail": "WAV valid, 8000 frame, 8000 Hz, durasi 1.00 detik"
+    },
+    {
+      "file": "evidence/samples/hill/pulih-database-contoh.sqlite",
+      "ok": true,
+      "detail": "integrity_check ok, 5 baris mahasiswa, rata-rata nilai 81.2"
+    },
+    {
+      "file": "evidence/samples/hill/pulih-gambar-contoh.png",
+      "ok": true,
+      "detail": "PNG valid 96x64, CRC semua chunk cocok"
+    },
+    {
+      "file": "evidence/samples/hill/pulih-teks-contoh.txt",
+      "ok": true,
+      "detail": "UTF-8 valid, 5 baris"
+    },
+    {
+      "file": "evidence/samples/playfair/pulih-audio-contoh.wav",
+      "ok": true,
+      "detail": "WAV valid, 8000 frame, 8000 Hz, durasi 1.00 detik"
+    },
+    {
+      "file": "evidence/samples/playfair/pulih-database-contoh.sqlite",
+      "ok": true,
+      "detail": "integrity_check ok, 5 baris mahasiswa, rata-rata nilai 81.2"
+    },
+    {
+      "file": "evidence/samples/playfair/pulih-gambar-contoh.png",
+      "ok": true,
+      "detail": "PNG valid 96x64, CRC semua chunk cocok"
+    },
+    {
+      "file": "evidence/samples/playfair/pulih-teks-contoh.txt",
+      "ok": true,
+      "detail": "UTF-8 valid, 5 baris"
+    },
+    {
+      "file": "evidence/samples/super/pulih-audio-contoh.wav",
+      "ok": true,
+      "detail": "WAV valid, 8000 frame, 8000 Hz, durasi 1.00 detik"
+    },
+    {
+      "file": "evidence/samples/super/pulih-database-contoh.sqlite",
+      "ok": true,
+      "detail": "integrity_check ok, 5 baris mahasiswa, rata-rata nilai 81.2"
+    },
+    {
+      "file": "evidence/samples/super/pulih-gambar-contoh.png",
+      "ok": true,
+      "detail": "PNG valid 96x64, CRC semua chunk cocok"
+    },
+    {
+      "file": "evidence/samples/super/pulih-teks-contoh.txt",
+      "ok": true,
+      "detail": "UTF-8 valid, 5 baris"
+    },
+    {
+      "file": "evidence/samples/vigenere/pulih-audio-contoh.wav",
+      "ok": true,
+      "detail": "WAV valid, 8000 frame, 8000 Hz, durasi 1.00 detik"
+    },
+    {
+      "file": "evidence/samples/vigenere/pulih-database-contoh.sqlite",
+      "ok": true,
+      "detail": "integrity_check ok, 5 baris mahasiswa, rata-rata nilai 81.2"
+    },
+    {
+      "file": "evidence/samples/vigenere/pulih-gambar-contoh.png",
+      "ok": true,
+      "detail": "PNG valid 96x64, CRC semua chunk cocok"
+    },
+    {
+      "file": "evidence/samples/vigenere/pulih-teks-contoh.txt",
+      "ok": true,
+      "detail": "UTF-8 valid, 5 baris"
+    }
+  ]
+}

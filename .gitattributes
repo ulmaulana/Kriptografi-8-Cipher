@@ -1,0 +1,7 @@
+# Fixture dan sampel hasil dibandingkan byte demi byte dengan SHA-256 di evidence.
+# Simpan apa adanya agar konversi line ending tidak mengubah isi file.
+fixtures/** binary
+evidence/samples/** binary
+docs/**/fixtures/** binary
+docs/**/evidence/samples/** binary
+*.dat binary

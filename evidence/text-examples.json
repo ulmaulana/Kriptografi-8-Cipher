@@ -1,0 +1,200 @@
+{
+  "generatedAt": "2026-10-01T09:33:01.513Z",
+  "command": "pnpm evidence",
+  "engine": "Ruby via HTTP",
+  "examples": [
+    {
+      "algorithm": "vigenere",
+      "algorithmName": "Vigenere standar",
+      "message": "Serang pukul 10.30!",
+      "parameters": {
+        "kataKunci": "KRIPTO"
+      },
+      "processedPlaintext": "SERANGPUKUL",
+      "plaintextBase64": "U0VSQU5HUFVLVUw=",
+      "ciphertextLetters": "CVZPGUZLSJE",
+      "ciphertextBase64": "Q1ZaUEdVWkxTSkU=",
+      "packageFile": "evidence/samples/teks/vigenere.dat",
+      "packageSize": 270,
+      "packageBase64": "VVRTS1JJUFQBAAAA9nsiYWxnb3JpdGhtIjoidmlnZW5lcmUiLCJpbnB1dE1vZGUiOiJ0ZXh0IiwiY29kZWMiOiJhbHBoYS10ZXh0LXYxIiwicGF5bG9hZEVuY29kaW5nIjoiYXNjaWktbGV0dGVycyIsInBheWxvYWRMZW5ndGgiOjExLCJleHBlY3RlZExlbmd0aCI6MTEsImNoZWNrc3VtQWxnb3JpdGhtIjoiU0hBLTI1NiIsInNoYTI1NiI6IjI3NjQ3MTQ4NDM3N2E3N2JlNThmOTI3ZDgyMTA2NjVkYmQ3Njk0NjkzNmUxNmU3NTZiZGMxYzMyZTRhNjQ0ZmEifUNWWlBHVVpMU0pF",
+      "recoveryMetadata": {
+        "playfair": null,
+        "hill": null
+      },
+      "decrypted": "SERANGPUKUL",
+      "checksumVerified": true,
+      "result": "LULUS"
+    },
+    {
+      "algorithm": "autokey",
+      "algorithmName": "Auto-Key Vigenere",
+      "message": "Ujian tengah semester kriptografi",
+      "parameters": {
+        "primer": "UTS"
+      },
+      "processedPlaintext": "UJIANTENGAHSEMESTERKRIPTOGRAFI",
+      "plaintextBase64": "VUpJQU5URU5HQUhTRU1FU1RFUktSSVBUT0dSQUZJ",
+      "ciphertextLetters": "OCAUWBEAZEUYETWWFIJDVZZKWVKOLZ",
+      "ciphertextBase64": "T0NBVVdCRUFaRVVZRVRXV0ZJSkRWWlpLV1ZLT0xa",
+      "packageFile": "evidence/samples/teks/autokey.dat",
+      "packageSize": 288,
+      "packageBase64": "VVRTS1JJUFQBAAAA9XsiYWxnb3JpdGhtIjoiYXV0b2tleSIsImlucHV0TW9kZSI6InRleHQiLCJjb2RlYyI6ImFscGhhLXRleHQtdjEiLCJwYXlsb2FkRW5jb2RpbmciOiJhc2NpaS1sZXR0ZXJzIiwicGF5bG9hZExlbmd0aCI6MzAsImV4cGVjdGVkTGVuZ3RoIjozMCwiY2hlY2tzdW1BbGdvcml0aG0iOiJTSEEtMjU2Iiwic2hhMjU2IjoiYzc2OGNkZWFjYTdjNWM1OTllOWZmMTJmMzJmYmM3MzFhZDk0ZTg2MTQ2MjVjOTcyOWIzYzVhMGMzY2RhZmEwMCJ9T0NBVVdCRUFaRVVZRVRXV0ZJSkRWWlpLV1ZLT0xa",
+      "recoveryMetadata": {
+        "playfair": null,
+        "hill": null
+      },
+      "decrypted": "UJIANTENGAHSEMESTERKRIPTOGRAFI",
+      "checksumVerified": true,
+      "result": "LULUS"
+    },
+    {
+      "algorithm": "extended-vigenere",
+      "algorithmName": "Extended Vigenere",
+      "message": "Halo, Dunia! Byte 0-255 ✓",
+      "parameters": {
+        "kunciByte": "kunci",
+        "formatKunci": "text"
+      },
+      "processedPlaintext": "Halo, Dunia! Byte 0-255 ✓",
+      "plaintextBase64": "SGFsbywgRHVuaWEhIEJ5dGUgMC0yNTUg4pyT",
+      "ciphertextLetters": null,
+      "ciphertextBase64": "s9ba0pWLuePR0syWjqXi39qOk5adqqODSwcI",
+      "packageFile": "evidence/samples/teks/extended-vigenere.dat",
+      "packageSize": 281,
+      "packageBase64": "VVRTS1JJUFQBAAAA8XsiYWxnb3JpdGhtIjoiZXh0ZW5kZWQtdmlnZW5lcmUiLCJpbnB1dE1vZGUiOiJ0ZXh0IiwiY29kZWMiOiJ1dGY4LXYxIiwicGF5bG9hZEVuY29kaW5nIjoiYnl0ZXMiLCJwYXlsb2FkTGVuZ3RoIjoyNywiZXhwZWN0ZWRMZW5ndGgiOjI3LCJjaGVja3N1bUFsZ29yaXRobSI6IlNIQS0yNTYiLCJzaGEyNTYiOiI4MWI2MzZhYjJjYTJlYmI4ODA3NDU2ZGNiOGE0NThkNDEyYWE1MTZiYjkxNDlhZGJlNWYyMjgzMGM3MDNjMDE5In2z1trSlYu549HSzJaOpeLf2o6Tlp2qo4NLBwg=",
+      "recoveryMetadata": {
+        "playfair": null,
+        "hill": null
+      },
+      "decrypted": "Halo, Dunia! Byte 0-255 ✓",
+      "checksumVerified": true,
+      "result": "LULUS"
+    },
+    {
+      "algorithm": "playfair",
+      "algorithmName": "Playfair",
+      "message": "Jangan lewatkan pesan XX ini",
+      "parameters": {
+        "kataKunci": "MONARCHY"
+      },
+      "processedPlaintext": "JANGANLEWATKANPESANXXINI",
+      "plaintextBase64": "SkFOR0FOTEVXQVRLQU5QRVNBTlhYSU5J",
+      "ciphertextLetters": "SBYQRAULXNZTRALFXBAWASAG",
+      "ciphertextBase64": "U0JZUVJBVUxYTlpUUkFMRlhCQVdBU0FH",
+      "packageFile": "evidence/samples/teks/playfair.dat",
+      "packageSize": 376,
+      "packageBase64": "VVRTS1JJUFQBAAABU3siYWxnb3JpdGhtIjoicGxheWZhaXIiLCJpbnB1dE1vZGUiOiJ0ZXh0IiwiY29kZWMiOiJhbHBoYS10ZXh0LXYxIiwicGF5bG9hZEVuY29kaW5nIjoiYXNjaWktbGV0dGVycyIsInBheWxvYWRMZW5ndGgiOjI0LCJleHBlY3RlZExlbmd0aCI6MjQsImNoZWNrc3VtQWxnb3JpdGhtIjoiU0hBLTI1NiIsInNoYTI1NiI6ImJhMzYzMzJiYzEwNDAzMTc2OTJjYTA3YzVjY2QwM2ExNjlmMDg5YWI2MDc0ODQzZmU1MDFmMmI0ODliNDljZGQiLCJwbGF5ZmFpciI6eyJtYXJrZXJzIjoiYml0c2V0LWxzYi12MSIsImZpbGxlciI6IkFBQUEiLCJmaWxsZXJDb3VudCI6MCwiakNvdW50IjoxLCJqIjoiQVFBQSJ9fVNCWVFSQVVMWE5aVFJBTEZYQkFXQVNBRw==",
+      "recoveryMetadata": {
+        "playfair": {
+          "markers": "bitset-lsb-v1",
+          "filler": "AAAA",
+          "fillerCount": 0,
+          "jCount": 1,
+          "j": "AQAA"
+        },
+        "hill": null
+      },
+      "decrypted": "JANGANLEWATKANPESANXXINI",
+      "checksumVerified": true,
+      "result": "LULUS"
+    },
+    {
+      "algorithm": "affine",
+      "algorithmName": "Affine",
+      "message": "Affine cipher",
+      "parameters": {
+        "a": "5",
+        "b": "8"
+      },
+      "processedPlaintext": "AFFINECIPHER",
+      "plaintextBase64": "QUZGSU5FQ0lQSEVS",
+      "ciphertextLetters": "IHHWVCSWFRCP",
+      "ciphertextBase64": "SUhIV1ZDU1dGUkNQ",
+      "packageFile": "evidence/samples/teks/affine.dat",
+      "packageSize": 269,
+      "packageBase64": "VVRTS1JJUFQBAAAA9HsiYWxnb3JpdGhtIjoiYWZmaW5lIiwiaW5wdXRNb2RlIjoidGV4dCIsImNvZGVjIjoiYWxwaGEtdGV4dC12MSIsInBheWxvYWRFbmNvZGluZyI6ImFzY2lpLWxldHRlcnMiLCJwYXlsb2FkTGVuZ3RoIjoxMiwiZXhwZWN0ZWRMZW5ndGgiOjEyLCJjaGVja3N1bUFsZ29yaXRobSI6IlNIQS0yNTYiLCJzaGEyNTYiOiI4ZDBiOGM0NTU3N2U5Yzc5NTAzM2FlY2RhZjUxNzgxMTE4NTAxZTFjMDM0NzM5ZmM2MTM3Mzg2M2FiYTgwZDU1In1JSEhXVkNTV0ZSQ1A=",
+      "recoveryMetadata": {
+        "playfair": null,
+        "hill": null
+      },
+      "decrypted": "AFFINECIPHER",
+      "checksumVerified": true,
+      "result": "LULUS"
+    },
+    {
+      "algorithm": "hill",
+      "algorithmName": "Hill",
+      "message": "Kriptografi klasik",
+      "parameters": {
+        "matriks": "6 24 1; 13 16 10; 20 17 15"
+      },
+      "processedPlaintext": "KRIPTOGRAFIKLASIK",
+      "plaintextBase64": "S1JJUFRPR1JBRklLTEFTSUs=",
+      "ciphertextLetters": "IOLOPBCMTYHWGLWZAZ",
+      "ciphertextBase64": "SU9MT1BCQ01UWUhXR0xXWkFa",
+      "packageFile": "evidence/samples/teks/hill.dat",
+      "packageSize": 301,
+      "packageBase64": "VVRTS1JJUFQBAAABDnsiYWxnb3JpdGhtIjoiaGlsbCIsImlucHV0TW9kZSI6InRleHQiLCJjb2RlYyI6ImFscGhhLXRleHQtdjEiLCJwYXlsb2FkRW5jb2RpbmciOiJhc2NpaS1sZXR0ZXJzIiwicGF5bG9hZExlbmd0aCI6MTgsImV4cGVjdGVkTGVuZ3RoIjoxNywiY2hlY2tzdW1BbGdvcml0aG0iOiJTSEEtMjU2Iiwic2hhMjU2IjoiYmM4OTJmNjhlMjc2YTc3MWQ4NTk0MTI4ZjQzNGQ3MDVjZjljMzc0N2NjNGQyODkwZWEyYmJkZjgwNzc1NWFmMiIsImhpbGwiOnsibiI6MywicGFkQ291bnQiOjF9fUlPTE9QQkNNVFlIV0dMV1pBWg==",
+      "recoveryMetadata": {
+        "playfair": null,
+        "hill": {
+          "n": 3,
+          "padCount": 1
+        }
+      },
+      "decrypted": "KRIPTOGRAFIKLASIK",
+      "checksumVerified": true,
+      "result": "LULUS"
+    },
+    {
+      "algorithm": "super",
+      "algorithmName": "Super Enkripsi",
+      "message": "Super enkripsi pada byte",
+      "parameters": {
+        "kunciByte": "SuperKunci",
+        "formatKunci": "text",
+        "kunciKolom": "TRANSPOSISI"
+      },
+      "processedPlaintext": "Super enkripsi pada byte",
+      "plaintextBase64": "U3VwZXIgZW5rcmlwc2kgcGFkYSBieXRl",
+      "ciphertextLetters": null,
+      "ciphertextBase64": "4M7OibzuypLa0mvW6uPK5LvcxNu1puXk",
+      "packageFile": "evidence/samples/teks/super.dat",
+      "packageSize": 266,
+      "packageBase64": "VVRTS1JJUFQBAAAA5XsiYWxnb3JpdGhtIjoic3VwZXIiLCJpbnB1dE1vZGUiOiJ0ZXh0IiwiY29kZWMiOiJ1dGY4LXYxIiwicGF5bG9hZEVuY29kaW5nIjoiYnl0ZXMiLCJwYXlsb2FkTGVuZ3RoIjoyNCwiZXhwZWN0ZWRMZW5ndGgiOjI0LCJjaGVja3N1bUFsZ29yaXRobSI6IlNIQS0yNTYiLCJzaGEyNTYiOiI0MDQ1NDFlMjZmNzZlNzI4ZDk0OGI3M2NiNDYyNGYyYzlhODQwN2NmZTIwYjA0NDVhMDc3MWNhZjkyNWZkYmJjIn3gzs6JvO7KktrSa9bq48rku9zE27Wm5eQ=",
+      "recoveryMetadata": {
+        "playfair": null,
+        "hill": null
+      },
+      "decrypted": "Super enkripsi pada byte",
+      "checksumVerified": true,
+      "result": "LULUS"
+    },
+    {
+      "algorithm": "enigma-i",
+      "algorithmName": "Enigma I",
+      "message": "HELLOWORLD",
+      "parameters": {
+        "rotors": "I II III",
+        "ringSettings": "1 1 1",
+        "initialPositions": "AAA",
+        "reflector": "B",
+        "plugboard": ""
+      },
+      "processedPlaintext": "HELLOWORLD",
+      "plaintextBase64": "SEVMTE9XT1JMRA==",
+      "ciphertextLetters": "ILBDAAMTAZ",
+      "ciphertextBase64": "SUxCREFBTVRBWg==",
+      "packageFile": "evidence/samples/teks/enigma-i.dat",
+      "packageSize": 269,
+      "packageBase64": "VVRTS1JJUFQBAAAA9nsiYWxnb3JpdGhtIjoiZW5pZ21hLWkiLCJpbnB1dE1vZGUiOiJ0ZXh0IiwiY29kZWMiOiJhbHBoYS10ZXh0LXYxIiwicGF5bG9hZEVuY29kaW5nIjoiYXNjaWktbGV0dGVycyIsInBheWxvYWRMZW5ndGgiOjEwLCJleHBlY3RlZExlbmd0aCI6MTAsImNoZWNrc3VtQWxnb3JpdGhtIjoiU0hBLTI1NiIsInNoYTI1NiI6IjBiMjFiN2RiNTljZDE1NDkwNGZhYzYzMzZmYTdkMmJlMWJhYjM4ZDYzMjc5NGYyODE1NDk1ODQwNjhjZGNiNzQifUlMQkRBQU1UQVo=",
+      "recoveryMetadata": {
+        "playfair": null,
+        "hill": null
+      },
+      "decrypted": "HELLOWORLD",
+      "checksumVerified": true,
+      "result": "LULUS"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-10-01T09:47:29.937024+00:00",
+  "sourceFiles": 110,
+  "applicationSourcesUnchanged": true,
+  "sourceCopiesIdentical": true,
+  "localMarkdownLinksChecked": 295,
+  "secretScanFindings": [],
+  "privatePathScanFindings": [],
+  "evidenceCopiesSanitized": [
+    {
+      "file": "bukti/evidence/e2e-results.json",
+      "source": "evidence/e2e-results.json",
+      "originalSha256": "89530a70910cd0d75c85e72c1b375b5783e07d8403d47c276701f098242cdbb3",
+      "packagedSha256": "e99856f8c0132c6967e0abc5a1d2b9ed4ab4acdfccbc3298675d99d8934ac2d4",
+      "change": "Lokasi mesin lokal diganti path proyek relatif atau penanda penghapusan. Nilai hasil uji tidak diubah."
+    },
+    {
+      "file": "kode-sumber/evidence/e2e-results.json",
+      "source": "evidence/e2e-results.json",
+      "originalSha256": "89530a70910cd0d75c85e72c1b375b5783e07d8403d47c276701f098242cdbb3",
+      "packagedSha256": "e99856f8c0132c6967e0abc5a1d2b9ed4ab4acdfccbc3298675d99d8934ac2d4",
+      "change": "Lokasi mesin lokal diganti path proyek relatif atau penanda penghapusan. Nilai hasil uji tidak diubah."
+    },
+    {
+      "file": "bukti/evidence/unit-test-results.json",
+      "source": "evidence/unit-test-results.json",
+      "originalSha256": "d8af9081efab1143395c5556e98711dc03abc1977bbd0fa207ed6432d0b7437f",
+      "packagedSha256": "3a0a402dfb226b25814b6d934e66777fd67af92bde599cae9f3aa51971382010",
+      "change": "Lokasi mesin lokal diganti path proyek relatif atau penanda penghapusan. Nilai hasil uji tidak diubah."
+    },
+    {
+      "file": "kode-sumber/evidence/unit-test-results.json",
+      "source": "evidence/unit-test-results.json",
+      "originalSha256": "d8af9081efab1143395c5556e98711dc03abc1977bbd0fa207ed6432d0b7437f",
+      "packagedSha256": "3a0a402dfb226b25814b6d934e66777fd67af92bde599cae9f3aa51971382010",
+      "change": "Lokasi mesin lokal diganti path proyek relatif atau penanda penghapusan. Nilai hasil uji tidak diubah."
+    }
+  ],
+  "testEvidence": {
+    "fileScenarios": 40,
+    "textExamples": 8,
+    "vitest": {
+      "passed": 159,
+      "failed": 0
+    },
+    "rspec": {
+      "duration": 1.1942314,
+      "example_count": 201,
+      "failure_count": 0,
+      "pending_count": 0,
+      "errors_outside_of_examples_count": 0
+    },
+    "playwright": {
+      "startTime": "2026-10-01T09:33:03.077Z",
+      "duration": 43233.78,
+      "expected": 30,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "screenshots": 45,
+    "browserDownloadPackages": 16,
+    "browserRecoveredFiles": 8,
+    "formatChecks": 32,
+    "containerMetadataChecked": 64
+  },
+  "integrity": "MANIFEST_SHA256.json dan SHA256SUMS.txt mencatat semua berkas selain kedua manifest itu sendiri."
+}

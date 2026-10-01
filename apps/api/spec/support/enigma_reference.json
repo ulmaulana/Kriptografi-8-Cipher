@@ -1,0 +1,78 @@
+﻿{
+  "source": "Py-Enigma 1.0.2, independent Python simulator",
+  "url": "https://github.com/gremmie/enigma",
+  "cases": [
+    {
+      "key": {
+        "rotors": [
+          "V",
+          "IV",
+          "II"
+        ],
+        "ringSettings": [
+          2,
+          3,
+          4
+        ],
+        "initialPositions": [
+          "Q",
+          "E",
+          "Z"
+        ],
+        "reflector": "C",
+        "plugboard": "AB CD EF GH IJ"
+      },
+      "plain": "HELLOWORLD",
+      "cipher": "KTMFGJXFVR",
+      "finalPositions": "QFJ"
+    },
+    {
+      "key": {
+        "rotors": [
+          "IV",
+          "V",
+          "I"
+        ],
+        "ringSettings": [
+          13,
+          1,
+          26
+        ],
+        "initialPositions": [
+          "J",
+          "Z",
+          "Q"
+        ],
+        "reflector": "C",
+        "plugboard": ""
+      },
+      "plain": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "cipher": "RSXNDQHFQCDRIFYVCWBHJHSLQYDYOSBSCPVHLBSZMEJOOLJIEWOJ",
+      "finalPositions": "KBQ"
+    },
+    {
+      "key": {
+        "rotors": [
+          "I",
+          "II",
+          "III"
+        ],
+        "ringSettings": [
+          2,
+          12,
+          26
+        ],
+        "initialPositions": [
+          "A",
+          "D",
+          "U"
+        ],
+        "reflector": "B",
+        "plugboard": "AV BS CG DL FU HZ IN KM OW RX"
+      },
+      "plain": "THEQUICKBROWNFOXJUMPSOVERTHELAZYDOG",
+      "cipher": "WOXZPNURAMKIADTSTELKFMLQKYOFIXAZLBD",
+      "finalPositions": "BGD"
+    }
+  ]
+}

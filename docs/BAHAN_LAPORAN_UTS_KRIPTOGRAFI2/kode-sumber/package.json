@@ -1,0 +1,40 @@
+{
+  "name": "uts-kriptografi",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.19.0",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "next build",
+    "start": "node scripts/dev.mjs --production",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "node scripts/with-ruby.mjs pnpm exec vitest run",
+    "test:ruby": "node scripts/test-ruby.mjs",
+    "test:all": "pnpm typecheck && pnpm lint && pnpm test:ruby && pnpm test && pnpm evidence && python scripts/verify_samples.py && pnpm test:e2e",
+    "test:e2e": "playwright test",
+    "evidence": "node scripts/with-ruby.mjs pnpm exec vitest run --config vitest.evidence.config.ts",
+    "fixtures": "python scripts/generate_fixtures.py && node scripts/generate-video.mjs",
+    "check:deps": "node scripts/check-denylist.mjs"
+  },
+  "dependencies": {
+    "next": "16.3.7",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@types/node": "24.19.0",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.3.7",
+    "typescript": "5.9.3",
+    "vite": "8.3.1",
+    "vitest": "5.0.3"
+  }
+}

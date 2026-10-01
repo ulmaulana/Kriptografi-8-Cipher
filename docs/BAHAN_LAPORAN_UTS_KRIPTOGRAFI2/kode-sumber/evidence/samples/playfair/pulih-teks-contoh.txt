@@ -1,0 +1,5 @@
+Contoh berkas teks untuk UTS Kriptografi.
+Baris kedua memuat angka 1234567890 dan tanda baca: ,.;:!?()[]{}
+Karakter multibyte: café, naïve, 漢字, Ελληνικά, emoji 🔐🗝️
+	Baris dengan tab dan spasi di akhir.   
+SERANG PUKUL 10.30 DI GERBANG TIMUR

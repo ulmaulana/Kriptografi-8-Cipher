@@ -1,0 +1,2249 @@
+{
+  "algorithm": "SHA-256",
+  "excludedSelfReferences": [
+    "MANIFEST_SHA256.json",
+    "SHA256SUMS.txt"
+  ],
+  "files": [
+    {
+      "path": "BAHAN_LAPORAN_UTS_KRIPTOGRAFI2.md",
+      "bytes": 58681,
+      "sha256": "10967e1429c712bfb27e98f3ba8e6d4fd361bc854f0ce932e7e0ba1a91229768"
+    },
+    {
+      "path": "CHECKSUM_FILE_LENGKAP.md",
+      "bytes": 23779,
+      "sha256": "0f9d6f2794a9ef95d6c51b393566fb350b0c6534bb571b01bdd7135ae3c871e1"
+    },
+    {
+      "path": "IMPLEMENTASI_ALGORITMA.md",
+      "bytes": 24511,
+      "sha256": "3e8161bcaa55813f7b33ba2081680f905b0e4154ead786d9d97ce4260cbfafd9"
+    },
+    {
+      "path": "KETERANGAN_SCREENSHOT.md",
+      "bytes": 13554,
+      "sha256": "005daf30e5021e8d4820146b7e40a7115599ca8b071c64f36c554ff635b40b36"
+    },
+    {
+      "path": "LAMPIRAN_KODE_PROGRAM.md",
+      "bytes": 691270,
+      "sha256": "dcc61182c517166c282b9bd4ad0ae05ae0be0b64f3e66ee81375961d49952508"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2715,
+      "sha256": "ed81c5db2107761dcb40c307f7f14c054a9465effeabdc860773bd68e22cf60c"
+    },
+    {
+      "path": "URAIAN_APLIKASI.md",
+      "bytes": 11174,
+      "sha256": "21805d760217bb23014bfeabe6e03eb66eec714c6f7d568d1f6c34a7a94e76f7"
+    },
+    {
+      "path": "VALIDASI_PAKET.json",
+      "bytes": 2792,
+      "sha256": "fa13d60e183f73e07a52ee3acd0119ff70d7fc96327c8574f28f1b62c5e4599f"
+    },
+    {
+      "path": "bukti/browser-downloads.json",
+      "bytes": 370093,
+      "sha256": "dd7d54ef1675e2cd8311893d060b2c1bf63a7ef4bf71b9e7b9dc1f388b19b0f2"
+    },
+    {
+      "path": "bukti/browser-downloads/file/affine/video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/browser-downloads/file/affine/video-contoh.webm.dat",
+      "bytes": 87898,
+      "sha256": "88ac20761a642b1a9b7d5f7dfe52941715cc21febec7bdd3837e01c225c6242a"
+    },
+    {
+      "path": "bukti/browser-downloads/file/autokey/gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/browser-downloads/file/autokey/gambar-contoh.png.dat",
+      "bytes": 27354,
+      "sha256": "a69f34cb5c26d186e466f70cb63b4fe024bfe7de1d47f057af12d1ad4f08784c"
+    },
+    {
+      "path": "bukti/browser-downloads/file/enigma-i/gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/browser-downloads/file/enigma-i/gambar-contoh.png.dat",
+      "bytes": 27355,
+      "sha256": "960218ddc03a03ec745fbf28d8628b3c5db583ec194fc853673152d6fbbda41d"
+    },
+    {
+      "path": "bukti/browser-downloads/file/extended-vigenere/database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/browser-downloads/file/extended-vigenere/database-contoh.sqlite.dat",
+      "bytes": 20792,
+      "sha256": "03fd48752314768e9dc38c97ddf40d1e525770b776f827fd39c38ce592bf570d"
+    },
+    {
+      "path": "bukti/browser-downloads/file/hill/gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/browser-downloads/file/hill/gambar-contoh.png.dat",
+      "bytes": 27379,
+      "sha256": "6a39de19e17ab0fa493d8cf706384fc4b0668e1162d19a3106381faeacdc53fd"
+    },
+    {
+      "path": "bukti/browser-downloads/file/playfair/audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/browser-downloads/file/playfair/audio-contoh.wav.dat",
+      "bytes": 39211,
+      "sha256": "ba9e3a01dc091f8ccd39c0bbe66d4cc508024b1cb705912d118257c3c2506b2c"
+    },
+    {
+      "path": "bukti/browser-downloads/file/super/video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/browser-downloads/file/super/video-contoh.webm.dat",
+      "bytes": 44096,
+      "sha256": "cfe9cf29db73960b537b6ecec94a1a21b2aeaa97ac04d6322ffa19fc2bc7a7e2"
+    },
+    {
+      "path": "bukti/browser-downloads/file/vigenere/teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/browser-downloads/file/vigenere/teks-contoh.txt.dat",
+      "bytes": 838,
+      "sha256": "17bf91f4117f81c11d55187aa9c5bc60a4851615cc931ccc00e2e02da5c04169"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/affine/cipherteks-affine.dat",
+      "bytes": 269,
+      "sha256": "9454c07486c2a6194c14743cd34a85448de352c42d3d84bf387f2a05d030130a"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/affine/hasil-dekripsi.txt",
+      "bytes": 12,
+      "sha256": "8d0b8c45577e9c795033aecdaf51781118501e1c034739fc61373863aba80d55"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/autokey/cipherteks-autokey.dat",
+      "bytes": 270,
+      "sha256": "165cda0f603b2f9eb013b54942a9ba7ba29a665f8ef2e8825b225bda33c38d91"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/autokey/hasil-dekripsi.txt",
+      "bytes": 12,
+      "sha256": "393dfae2845abf5cb0d599ccd1189f57ef56b3fa104e0ae71844d78bccd4e5d2"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/enigma-i/cipherteks-enigma-i.dat",
+      "bytes": 269,
+      "sha256": "4e4d1539235bbc5978e1b3ac254640cd2bced8be6b1a3c8001f83655f4ed78de"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/enigma-i/hasil-dekripsi.txt",
+      "bytes": 10,
+      "sha256": "0b21b7db59cd154904fac6336fa7d2be1bab38d632794f281549584068cdcb74"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/extended-vigenere/cipherteks-extended-vigenere.dat",
+      "bytes": 256,
+      "sha256": "c86b445e15b8d893e425018ca0a9dd9bd9373b22ffe6c4b3483178553a801155"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/extended-vigenere/hasil-dekripsi.txt",
+      "bytes": 4,
+      "sha256": "4e86512d9a0af8a743d42a1a0f3eaee0945790ddb79c8db14309337c1235b2e4"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/hill/cipherteks-hill.dat",
+      "bytes": 284,
+      "sha256": "f8dd08c449325abdc51ff0e134815d9405f007e38eb0517fdb4f3436200aa6ef"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/hill/hasil-dekripsi.txt",
+      "bytes": 3,
+      "sha256": "ee71241ebf18aa7e04fb4ba1d76c17c3cefe11398a9849dc515e53573cebce61"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/playfair/cipherteks-playfair.dat",
+      "bytes": 386,
+      "sha256": "4ba03cc66e2ed9a8dd16eb94b962a60a8da49c79959e719166736a52946091ec"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/playfair/hasil-dekripsi.txt",
+      "bytes": 25,
+      "sha256": "874c3d9daa35942c892c284c20dba2b2efc65ed0fae647ca9c0a5b306de5665a"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/super/cipherteks-super.dat",
+      "bytes": 247,
+      "sha256": "eaa5b1ae3b797f3f259e7c27a0292937b63dca31e65bf6c571bedb55a01dd355"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/super/hasil-dekripsi.txt",
+      "bytes": 7,
+      "sha256": "e9a92a2ed0d53732ac13b031a27b071814231c8633c9f41844ccba884d482b16"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/vigenere/cipherteks-vigenere.dat",
+      "bytes": 271,
+      "sha256": "390d1d16268226019a313bb37fc6abc6403e0514d8fbdcd61905cf95e876ae60"
+    },
+    {
+      "path": "bukti/browser-downloads/teks/vigenere/hasil-dekripsi.txt",
+      "bytes": 12,
+      "sha256": "393dfae2845abf5cb0d599ccd1189f57ef56b3fa104e0ae71844d78bccd4e5d2"
+    },
+    {
+      "path": "bukti/evidence/README.md",
+      "bytes": 4037,
+      "sha256": "6cf83c8f4a435ecc13c243402f92930490f577f64bcd856ff6d69e91564daabf"
+    },
+    {
+      "path": "bukti/evidence/e2e-results.json",
+      "bytes": 34254,
+      "sha256": "e99856f8c0132c6967e0abc5a1d2b9ed4ab4acdfccbc3298675d99d8934ac2d4"
+    },
+    {
+      "path": "bukti/evidence/file-scenarios.json",
+      "bytes": 38784,
+      "sha256": "c0409bf35a8c134a9d62dc8d09580e42300006250eb6ecd7c30aa716cafcd3f9"
+    },
+    {
+      "path": "bukti/evidence/file-scenarios.md",
+      "bytes": 4381,
+      "sha256": "966161c6e46b971425ad098bf35830645ed6022031945154d10f31e7028bc4fc"
+    },
+    {
+      "path": "bukti/evidence/format-checks.json",
+      "bytes": 5409,
+      "sha256": "1f00c423e489037f1fcaeece2823e971bb4693a11a3f84ae19d3106abc1cf8d2"
+    },
+    {
+      "path": "bukti/evidence/ruby-test-results.json",
+      "bytes": 67205,
+      "sha256": "c55bbfe3a96783fabfb8e91e47d19ae3ea4cc87413ed7ce9b18755a80d56cde8"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/audio-contoh.wav.dat",
+      "bytes": 32402,
+      "sha256": "6d1151c887239abafee4f9941bc314828963dd3195b42db992719086b9ae4be5"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/database-contoh.sqlite.dat",
+      "bytes": 41294,
+      "sha256": "c3a1e8e52700d6266142eea2e0c847524eb446ae4c9d3e1b83d7e6806e8f42d7"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/gambar-contoh.png.dat",
+      "bytes": 27353,
+      "sha256": "cc1397b7a0c266e36f95a166a688807ee0ef32a0795e2f633497abf49d6b2c24"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/teks-contoh.txt.dat",
+      "bytes": 836,
+      "sha256": "5a4be361979b4f6d2ddb0a3e4d734dbafe78c86cb46fa9899a636b03527cef9d"
+    },
+    {
+      "path": "bukti/evidence/samples/affine/video-contoh.webm.dat",
+      "bytes": 87898,
+      "sha256": "88ac20761a642b1a9b7d5f7dfe52941715cc21febec7bdd3837e01c225c6242a"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/audio-contoh.wav.dat",
+      "bytes": 32403,
+      "sha256": "03182dfffcfdcb9b5c23e11a750ce389c6adca86deb4e904b07237d6f56158d5"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/database-contoh.sqlite.dat",
+      "bytes": 41295,
+      "sha256": "715ea7e756f0b01424611f4fc43523f7d08693501c53d12653e5703b80568672"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/gambar-contoh.png.dat",
+      "bytes": 27354,
+      "sha256": "a69f34cb5c26d186e466f70cb63b4fe024bfe7de1d47f057af12d1ad4f08784c"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/teks-contoh.txt.dat",
+      "bytes": 837,
+      "sha256": "d77ff2b0a933f109ccecbe91c47ac7c1c1661c47aa2898397cc9dbdc8d11cae7"
+    },
+    {
+      "path": "bukti/evidence/samples/autokey/video-contoh.webm.dat",
+      "bytes": 87899,
+      "sha256": "f20bef4a6415e9462f60dbd3e4b8898cd01a4c495480c0a932461b23faa485af"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/audio-contoh.wav.dat",
+      "bytes": 32404,
+      "sha256": "eff2e9ec56bc88f91a53b506d64ebc3a91c500474aea5449efb53f044fe7081f"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/database-contoh.sqlite.dat",
+      "bytes": 41296,
+      "sha256": "17641e0e97da9cd0d6fe433b630a1ae18e61951529cfd843a1baec973dd59a38"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/gambar-contoh.png.dat",
+      "bytes": 27355,
+      "sha256": "7df292e64b8514ea8892fb8a6c64aa355bfff1c3795ef88017425a468a96cf50"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/teks-contoh.txt.dat",
+      "bytes": 838,
+      "sha256": "46963cf730f754a0bd86ead6230e8627951edafead6404b4e25858768432cbc9"
+    },
+    {
+      "path": "bukti/evidence/samples/enigma-i/video-contoh.webm.dat",
+      "bytes": 87900,
+      "sha256": "6556a185cc12114039792f8050d19672739c0c16f0bf996508f2794158cf22cb"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/audio-contoh.wav.dat",
+      "bytes": 16359,
+      "sha256": "3ebe927fd98a2d6718ccfed0a9dea1bbca3d88ab2a7dd97059dd319d0e2f6686"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/database-contoh.sqlite.dat",
+      "bytes": 20815,
+      "sha256": "a15b854a8fa1377120b2f12b794484fd5d4a253d815d49b000d444fc37b4331c"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/gambar-contoh.png.dat",
+      "bytes": 13835,
+      "sha256": "99365b86fc02bcf8f6eaa734f9644b04c15793564602bcfcb007f9069e6a97a0"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/teks-contoh.txt.dat",
+      "bytes": 574,
+      "sha256": "ed53c69ab8a409cc303da0d676b0d8f6bc651f546b3c9e229336464691dfef2b"
+    },
+    {
+      "path": "bukti/evidence/samples/extended-vigenere/video-contoh.webm.dat",
+      "bytes": 44108,
+      "sha256": "5d99af5682fffedb34110786bd4e5b8f48a41469d470c6f276210d97f03e82bf"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/audio-contoh.wav.dat",
+      "bytes": 32428,
+      "sha256": "4eaf096fd11cf79130def05bea7f4ae6ac16236d2b240fc4eae9294c9e1e00a0"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/database-contoh.sqlite.dat",
+      "bytes": 41322,
+      "sha256": "e73406682240b29349b26cce220d22ac5e39b68e1fca2cb525dc888eed54c04c"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/gambar-contoh.png.dat",
+      "bytes": 27380,
+      "sha256": "05e7c280943e17e32d9e9617c76b8733b8ad8d1175254102d814df75569cf1e8"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/teks-contoh.txt.dat",
+      "bytes": 864,
+      "sha256": "28e61fa330ae6331ecaa9ad072a83de4360713ba8ded8d106b6ea4de265518cd"
+    },
+    {
+      "path": "bukti/evidence/samples/hill/video-contoh.webm.dat",
+      "bytes": 87924,
+      "sha256": "04e9bea27ec0557871348811c268fb73b7e57034a95908ceec6eb3aafcacd444"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/audio-contoh.wav.dat",
+      "bytes": 39211,
+      "sha256": "ba9e3a01dc091f8ccd39c0bbe66d4cc508024b1cb705912d118257c3c2506b2c"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/database-contoh.sqlite.dat",
+      "bytes": 94314,
+      "sha256": "3c016b3707d156450bd21243d44dc497b4cb5a5eb2f06e174d9993dca0dd8292"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/gambar-contoh.png.dat",
+      "bytes": 32613,
+      "sha256": "7f8af3e1d22ca291ef943d4c68e761567a4083db1bc867724e8f99de09192cc2"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/teks-contoh.txt.dat",
+      "bytes": 1016,
+      "sha256": "544aafc67c9059cd1f342875a665e3992112d114a792db9c8de1a33a112fedba"
+    },
+    {
+      "path": "bukti/evidence/samples/playfair/video-contoh.webm.dat",
+      "bytes": 104939,
+      "sha256": "6bcf3edee1a1af97d7650e385cd5cfea61dcc40bbb99fe00c9f7611b8cf99522"
+    },
+    {
+      "path": "bukti/evidence/samples/super/audio-contoh.wav.dat",
+      "bytes": 16347,
+      "sha256": "57f97eefbbd4f7c7e287cfc66cd9375ea6290c851e00c68f48395a9407ec4564"
+    },
+    {
+      "path": "bukti/evidence/samples/super/database-contoh.sqlite.dat",
+      "bytes": 20803,
+      "sha256": "4487c910a1f232a9fdf847ec646d05c8793d0cfee3ff974036f6abeb19fc1f51"
+    },
+    {
+      "path": "bukti/evidence/samples/super/gambar-contoh.png.dat",
+      "bytes": 13823,
+      "sha256": "ea21c9f1007014567ff9dc889c1d8893dc89c6abb3f60be72cc83037d7f80989"
+    },
+    {
+      "path": "bukti/evidence/samples/super/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/evidence/samples/super/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/evidence/samples/super/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/evidence/samples/super/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/evidence/samples/super/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/evidence/samples/super/teks-contoh.txt.dat",
+      "bytes": 562,
+      "sha256": "2e2eaf3861242c06ce984ff93663ee744e72aecaa9108263274913483100ef81"
+    },
+    {
+      "path": "bukti/evidence/samples/super/video-contoh.webm.dat",
+      "bytes": 44096,
+      "sha256": "cfe9cf29db73960b537b6ecec94a1a21b2aeaa97ac04d6322ffa19fc2bc7a7e2"
+    },
+    {
+      "path": "bukti/evidence/samples/teks/affine.dat",
+      "bytes": 269,
+      "sha256": "9454c07486c2a6194c14743cd34a85448de352c42d3d84bf387f2a05d030130a"
+    },
+    {
+      "path": "bukti/evidence/samples/teks/autokey.dat",
+      "bytes": 288,
+      "sha256": "5de855487a85f36dc44b687cbe712ade2a2b4f3131a593a75feab7ae37f14dbc"
+    },
+    {
+      "path": "bukti/evidence/samples/teks/enigma-i.dat",
+      "bytes": 269,
+      "sha256": "4e4d1539235bbc5978e1b3ac254640cd2bced8be6b1a3c8001f83655f4ed78de"
+    },
+    {
+      "path": "bukti/evidence/samples/teks/extended-vigenere.dat",
+      "bytes": 281,
+      "sha256": "a790caa46357ca42a641a360790b1104e133961503945393c7563cfb4620d6d8"
+    },
+    {
+      "path": "bukti/evidence/samples/teks/hill.dat",
+      "bytes": 301,
+      "sha256": "7993a491938d133ecd08a5fb65474f674faeebbfa43d58d499fcfe607fa13e63"
+    },
+    {
+      "path": "bukti/evidence/samples/teks/playfair.dat",
+      "bytes": 376,
+      "sha256": "ced5eaa21e76f6e1c84629eb001b2e6a0dddd520996da7f0cb08a9c620711531"
+    },
+    {
+      "path": "bukti/evidence/samples/teks/super.dat",
+      "bytes": 266,
+      "sha256": "88ceb296a0904f513224b824be4edb8776fee673b4f5c6130a4b60b56554b5f2"
+    },
+    {
+      "path": "bukti/evidence/samples/teks/vigenere.dat",
+      "bytes": 270,
+      "sha256": "df4fa53e18a41a4fca43f696f3b03149df427d40837fbb577ed2daf2e7d71857"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/audio-contoh.wav.dat",
+      "bytes": 32404,
+      "sha256": "223894ca56375a5309a030aac773fa57ddaa6566a43e88b8fc9c9a8e7e284e73"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/database-contoh.sqlite.dat",
+      "bytes": 41296,
+      "sha256": "569dcb3e53f0237f034a5a34a290f0663c6dcdb480cc27c812870de307cf3d7f"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/gambar-contoh.png.dat",
+      "bytes": 27355,
+      "sha256": "4fd8af1df8ebb7ba338f34e0f8a5ab05b2afdc5216f8d4af6f604086d24a05ad"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/teks-contoh.txt.dat",
+      "bytes": 838,
+      "sha256": "17bf91f4117f81c11d55187aa9c5bc60a4851615cc931ccc00e2e02da5c04169"
+    },
+    {
+      "path": "bukti/evidence/samples/vigenere/video-contoh.webm.dat",
+      "bytes": 87900,
+      "sha256": "16a4b7f0858e9fad1028bd8b9731112dbd85bf1b81e1fae8e6d46353c6b21a4d"
+    },
+    {
+      "path": "bukti/evidence/screenshots/01-tampilan-utama.png",
+      "bytes": 112861,
+      "sha256": "24111d04e43ab9f76ce1a602c02c4ebb5eb2978b6d06cca8c9d6d9e47a6eaa78"
+    },
+    {
+      "path": "bukti/evidence/screenshots/02-tema-terang.png",
+      "bytes": 112943,
+      "sha256": "6784edafd3b78337b8d8f33cc4e36a20ae1d7c2f887d9049334812d4ef868fdb"
+    },
+    {
+      "path": "bukti/evidence/screenshots/03-tema-terang-hasil.png",
+      "bytes": 146374,
+      "sha256": "f98b0ecfdf1ade167750425f0f815d84a9d932b1ed6e994a25b91c6d99c25111"
+    },
+    {
+      "path": "bukti/evidence/screenshots/dekripsi-base64-payload.png",
+      "bytes": 157139,
+      "sha256": "08bf5a1e80b759fc0510b1c63f790bb4676dd86487d4ccfe744915395be5f882"
+    },
+    {
+      "path": "bukti/evidence/screenshots/dekripsi-mentah-playfair.png",
+      "bytes": 144642,
+      "sha256": "36f23e5431d4c2b3d7efbd77a25a584398e98a440ad10c18fa8a0217375551bd"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-affine-dekripsi.png",
+      "bytes": 184498,
+      "sha256": "9d419c7a24c9397217e8cf666ec63c531e98910f0a76064ce158c2a7929ea75a"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-affine-enkripsi.png",
+      "bytes": 278910,
+      "sha256": "047cefd8830ef1b74e2072bac4ddf09065568108cd08dc2c083de7c8d176513d"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-autokey-dekripsi.png",
+      "bytes": 192463,
+      "sha256": "cf5e5365c5ef4bf78896b9ebf08429d96632420346f5e3d0ec4db695ef965717"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-autokey-enkripsi.png",
+      "bytes": 291398,
+      "sha256": "24e42a40f0020c1846926d331b2392ebfc8d656450c5149566a30e40e7925550"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-enigma-i-dekripsi.png",
+      "bytes": 208573,
+      "sha256": "ad81ea6f80e0e504263d78973b17293dfb83c1de6b75a2100ff0454462010454"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-enigma-i-enkripsi.png",
+      "bytes": 307993,
+      "sha256": "6c1636c634cb793919e968e65f88d90025aab5eb1eb76d789f678bc15c8539d9"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-extended-vigenere-dekripsi.png",
+      "bytes": 162078,
+      "sha256": "227c704d0b7b17cb4ea5e8a318688392775f8d7da39f82d0aa058fb336aad3b6"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-extended-vigenere-enkripsi.png",
+      "bytes": 203605,
+      "sha256": "c8306ee68eec564550fa7335ba64a2fdf792c5d2fbae4e76e631b76e7185a1e4"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-hill-dekripsi.png",
+      "bytes": 200992,
+      "sha256": "a1cf1b8752f76f94485773a7a33a2f1b078fc689c40737a1d373f4b1238aa7a6"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-hill-enkripsi.png",
+      "bytes": 297504,
+      "sha256": "96c939bcb6cdae1bb8efc0f8c5e72d67c4cf5d760196ff57b110d960bdda3b05"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-playfair-dekripsi.png",
+      "bytes": 198228,
+      "sha256": "26fe615875c8ee153074d7cd0d7c7138473058002676991aabd1ceb510dc1bb2"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-playfair-enkripsi.png",
+      "bytes": 296636,
+      "sha256": "f1c5f90665b9f6267e507702b2b617819ec7613c988528d50c50cd1c27e6b38b"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-super-dekripsi.png",
+      "bytes": 204452,
+      "sha256": "3d7d3f97195132f60d08e4b526e3bac24421750cde9352253c99d6d90c8f30b8"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-super-enkripsi.png",
+      "bytes": 244811,
+      "sha256": "9c4766d38e53804d2a140fb676d88849bf5991eef878ae0754ad380f6c1643c5"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-vigenere-dekripsi.png",
+      "bytes": 165788,
+      "sha256": "f318c79e798e2639cc0695a3d5eb5b49e6eebf5ff7addbce238dfa6b55a58094"
+    },
+    {
+      "path": "bukti/evidence/screenshots/file-vigenere-enkripsi.png",
+      "bytes": 252536,
+      "sha256": "c138dc52357f47c06ed2931a06f1fa022cac67abe516eae137f1056324222bb1"
+    },
+    {
+      "path": "bukti/evidence/screenshots/hasil-lama-ditandai.png",
+      "bytes": 150909,
+      "sha256": "8585c0febb45fc87c5171f2da73449ea1ebd8ff2d47f68fb950a069d1bea19dd"
+    },
+    {
+      "path": "bukti/evidence/screenshots/info-super-enkripsi.png",
+      "bytes": 116387,
+      "sha256": "dc86adf56da533adb16e5ba66b16381c9731fc7de4b6cbbae9c0608e1f73a84a"
+    },
+    {
+      "path": "bukti/evidence/screenshots/layar-sempit-enigma.png",
+      "bytes": 473262,
+      "sha256": "5ecb00de6c8c1348f0317f46af67b3c48c3d9f97ca5018d9a907a840794ec516"
+    },
+    {
+      "path": "bukti/evidence/screenshots/layar-sempit.png",
+      "bytes": 520159,
+      "sha256": "478c453e840cb4c776aadf463f228d25af79c0c4201ef0f2ce385f49de855e4c"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-affine-dekripsi.png",
+      "bytes": 133880,
+      "sha256": "549acc0b8fef82b3719d73ad45456c341b0f6c40b04e5416b62209dd8e446d6c"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-affine-enkripsi.png",
+      "bytes": 138011,
+      "sha256": "bb5f687e6679da3d0d43eb25355b70e637d05e70abe0f8fceeff410bca147e7b"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-autokey-dekripsi.png",
+      "bytes": 141909,
+      "sha256": "2cfef2a00b22bfc8d847b63607aa61bf347c18512e5188f46c5b6a3f3671a641"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-autokey-enkripsi.png",
+      "bytes": 144249,
+      "sha256": "5325b063d3590de2a567a0576519620ffd2dcc6439874dcffc05abdf62733f19"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-enigma-i-dekripsi.png",
+      "bytes": 156366,
+      "sha256": "5d0069733292e21763af6d7579325f63a9cfb2e3deb78eedcaa035f7399b05a0"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-enigma-i-enkripsi.png",
+      "bytes": 162987,
+      "sha256": "aefdc8a7c0f8ed6878664bc5c86acac364ea85446473ed3967b970f28dac32e0"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-extended-vigenere-dekripsi.png",
+      "bytes": 140790,
+      "sha256": "2834a75f50da8982c7cfb88b235169268c28f6c21a710c4bf2915ea98e348d0a"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-extended-vigenere-enkripsi.png",
+      "bytes": 135425,
+      "sha256": "ac0665a458d4dfd92c6f8a578e45fe2880df85492b04e3facd184bc7e7550397"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-hill-dekripsi.png",
+      "bytes": 152803,
+      "sha256": "653ba53a8f110154f3b84a0ac3eedd99f6dcce412da8a0260e058585791833bb"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-hill-enkripsi.png",
+      "bytes": 153966,
+      "sha256": "c7f0c66629606280b3192d7c12ddaa85f2fe3be26546a1ce24077b2e39d20a53"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-playfair-dekripsi.png",
+      "bytes": 149025,
+      "sha256": "ffd7cd472cc82d14fc9f2b62c40445c1210eb6e40baa979b23e68f69b7a65c42"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-playfair-enkripsi.png",
+      "bytes": 159103,
+      "sha256": "ccdb1caa78964f9d7828d30c9666a121ed2f4ad30e5ea6a8c7bdb104f7a6b3c9"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-super-dekripsi.png",
+      "bytes": 151460,
+      "sha256": "b81cd038b0c64f162774f45065add8ca3b8ff1cd8cbb3d455be7a31bc1f35f9b"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-super-enkripsi.png",
+      "bytes": 149126,
+      "sha256": "8acf277f9b208bec6d7d115cc9a14544db3f077347534e526ac40f9fca27bfd6"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-vigenere-dekripsi.png",
+      "bytes": 143386,
+      "sha256": "9bf0a7b63253ebb057d424db527ba868b3147ddbbc4f35b4ddd1ed4fe92d33b8"
+    },
+    {
+      "path": "bukti/evidence/screenshots/teks-vigenere-enkripsi.png",
+      "bytes": 144995,
+      "sha256": "b0e6d71ae04366ad731b4cde88c82c1b76b9ff1d9bf7eb42c381982ef9ac90b7"
+    },
+    {
+      "path": "bukti/evidence/screenshots/validasi-affine.png",
+      "bytes": 115546,
+      "sha256": "3a87817b7ee8c8e5e37979b7dc599a318760c6fb5fe5500f20acb01530ae610d"
+    },
+    {
+      "path": "bukti/evidence/screenshots/validasi-enigma-plugboard.png",
+      "bytes": 170456,
+      "sha256": "7816aad73d81520dca982b63ccb92c84786c86cf3d3fdcf62cc25e53a6eb276b"
+    },
+    {
+      "path": "bukti/evidence/screenshots/validasi-hill.png",
+      "bytes": 116492,
+      "sha256": "56651497602c4e7d88515a1b15931a1017287d659cbe017db53d62cf5d84d227"
+    },
+    {
+      "path": "bukti/evidence/screenshots/validasi-kunci-salah.png",
+      "bytes": 133579,
+      "sha256": "1187f0c9370baabb2e9df11c111be2771ef82df796c2f5dc39d2aa058221d9be"
+    },
+    {
+      "path": "bukti/evidence/text-examples.json",
+      "bytes": 9168,
+      "sha256": "daa1a044e216945d0ba4127e61f91202110cdd3d83777d5661dcdf4134890f4f"
+    },
+    {
+      "path": "bukti/evidence/unit-test-results.json",
+      "bytes": 73444,
+      "sha256": "3a0a402dfb226b25814b6d934e66777fd67af92bde599cae9f3aa51971382010"
+    },
+    {
+      "path": "bukti/fixtures/audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "bukti/fixtures/database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "bukti/fixtures/gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "bukti/fixtures/teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "bukti/fixtures/video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "bukti/perbandingan-file.csv",
+      "bytes": 10662,
+      "sha256": "fce46766d19a7a749658826256d0da5a6aba3d028975f4820505330ed93d9445"
+    },
+    {
+      "path": "bukti/ringkasan-pengujian.json",
+      "bytes": 696,
+      "sha256": "63f12ff8c9e6fb44a089fb00a83f5761ec1cefa4ca25a277c0b0221345d6c9d6"
+    },
+    {
+      "path": "kode-sumber/.env.example",
+      "bytes": 179,
+      "sha256": "b3ec6aa77c197176d0a08d5b1d7fd7a489c0865beddf0cbbf96ef8611051e1c6"
+    },
+    {
+      "path": "kode-sumber/.gitignore",
+      "bytes": 145,
+      "sha256": "a09a24220d3dcaaeb6cb6bd108f6f3b12d5fbf2b1f7e868293e376c7ac166ad0"
+    },
+    {
+      "path": "kode-sumber/PRD.md",
+      "bytes": 54835,
+      "sha256": "86701162677f7226777879258a32cd50fbc85179df0323961e7fe171f909f5d4"
+    },
+    {
+      "path": "kode-sumber/README.md",
+      "bytes": 17549,
+      "sha256": "23af084bd6cbd6e6e5de7b36f6f6b70c9c16188df8f2ff989f86c0359d5770da"
+    },
+    {
+      "path": "kode-sumber/apps/api/.gitignore",
+      "bytes": 63,
+      "sha256": "4dac864b6748289eb8bed7e9437ba747d55ceb22ee047a16d02189ff34f2fdf2"
+    },
+    {
+      "path": "kode-sumber/apps/api/.rspec",
+      "bytes": 45,
+      "sha256": "bd97061ab2a48fd323f5059bfd260a66f8e45a70fb2ec7040a39bdc27eace68a"
+    },
+    {
+      "path": "kode-sumber/apps/api/.ruby-version",
+      "bytes": 6,
+      "sha256": "282f6fe03df9856294bc0a0db74e65b15906eb6ae7fef56fadebb09751fef301"
+    },
+    {
+      "path": "kode-sumber/apps/api/Gemfile",
+      "bytes": 196,
+      "sha256": "c2f77cedd3392a7fa7faf60766e8eecf6f082254d34bfe7463e12db1d3e70c8c"
+    },
+    {
+      "path": "kode-sumber/apps/api/Gemfile.lock",
+      "bytes": 1249,
+      "sha256": "0619ed49c14447da887a45d40fd20b7a6f92276cdadb5855e077f80700eb5cdb"
+    },
+    {
+      "path": "kode-sumber/apps/api/app.rb",
+      "bytes": 4509,
+      "sha256": "7ae8d133c184c22c5fdb0599dfcc7cd20e86af8a7b844f68b9fb0cd7f28e6a39"
+    },
+    {
+      "path": "kode-sumber/apps/api/config.ru",
+      "bytes": 42,
+      "sha256": "9584542359d02e479d5dc763e78fc81d043f96ccae1dc2f9dd1ee8c9663b542b"
+    },
+    {
+      "path": "kode-sumber/apps/api/config/puma.rb",
+      "bytes": 182,
+      "sha256": "c5d47d7fc5b2d1690c78d0a4b0655b5a82e98942e073b4990d8d90da208ebfda"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/ciphers/classical.rb",
+      "bytes": 2579,
+      "sha256": "9b82a40123c0607a6908bf75a5c65e309ae3cd6d561e6bb4bc3c653d15acd00a"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/ciphers/enigma.rb",
+      "bytes": 2469,
+      "sha256": "46b4e16d201c1fb862d02427e60a06a95953c4c2755f8bcde28faf47d9de2b12"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/ciphers/modular.rb",
+      "bytes": 2114,
+      "sha256": "39812893542d46788535e387262e5e97554b7458dffc48730aface563138d001"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/ciphers/playfair.rb",
+      "bytes": 2922,
+      "sha256": "96e592eedbbb39ed0ce195d582fd673c26446cb9a93cdbc5e9ac710da93b344b"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/codecs.rb",
+      "bytes": 2588,
+      "sha256": "d045de0c7560cab6dc67d6d473c537f8fa2e4e0902bbeb63bfa278c040c6d4c9"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/container.rb",
+      "bytes": 7945,
+      "sha256": "496e4ac1b21c7b749e61e7ce385231561fa8ef4b0f987a8fce7f9d32efe74a33"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/engine.rb",
+      "bytes": 12454,
+      "sha256": "caf8f0d217e5df6bdebf76ea558edf9c489c6517ea453889536ba5fc01b79cb6"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/errors.rb",
+      "bytes": 527,
+      "sha256": "809c6fe423df32d23a5da1722e8f986c9c6858e569bdd5f406d9bf8320984c28"
+    },
+    {
+      "path": "kode-sumber/apps/api/lib/uts_crypto/keys.rb",
+      "bytes": 8334,
+      "sha256": "107354ae0294d54e84b047dbe10e51e467a218e397494d615fef4f3ad735c1bc"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/api_spec.rb",
+      "bytes": 8752,
+      "sha256": "a4599fde045e2e1ed7ba3bcb751785d8d789b64489cfd9ef8f90494fd123c8cb"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/ciphers_spec.rb",
+      "bytes": 4876,
+      "sha256": "6242a461a8877929c8b4ac771647541cfb86f436d7bf11ac53cf1d6ab135f917"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/codecs_spec.rb",
+      "bytes": 1987,
+      "sha256": "b63051195602a3e93677cca3e8d181bf062706e593e3fa112408faf72b48b6ab"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/container_spec.rb",
+      "bytes": 4531,
+      "sha256": "2149fd1f5585c55ea5a9245824c26557a1b99e48a7960d0741b604efd01ff358"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/engine_spec.rb",
+      "bytes": 4928,
+      "sha256": "72b3e50e8ebb5707f05db3502c07d332ef4e9c30befdf2207bd4490898fe2bda"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/enigma_spec.rb",
+      "bytes": 2913,
+      "sha256": "d418af024b3bd42efdf9d3ae4d19d1eb473ab856eff984b8f4d3f106a09c45b7"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/keys_spec.rb",
+      "bytes": 4173,
+      "sha256": "7f9c3e1ff3c0c809b3f57e0f96a9f413304f1dbbfb885401fe7fb970db56e9b7"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/legacy_compatibility_spec.rb",
+      "bytes": 1469,
+      "sha256": "b71e720f49b24fa6cb9e76c873e688e0252adb259eb01ef4a12d4ad987d33c0d"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/spec_helper.rb",
+      "bytes": 2029,
+      "sha256": "4ca6ff5e22af1b242ec44b2018c92dacead0e7f0b585aeb11ba4a10e83defe2f"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/support/capture_enigma_reference.py",
+      "bytes": 1478,
+      "sha256": "dab75c025aa76f7ff4de677be5896e010a071dd7c3f2dceaf2f8d9f0f79e029e"
+    },
+    {
+      "path": "kode-sumber/apps/api/spec/support/enigma_reference.json",
+      "bytes": 1628,
+      "sha256": "ed5ddf379b9883e900a70a3fb6862d35a54d0dcf888aad6d477f0a41f01ba9e7"
+    },
+    {
+      "path": "kode-sumber/docs/catatan-teknis.md",
+      "bytes": 11010,
+      "sha256": "570910b570b10bb0dda6c142d3b2d1b5880bc85f0c284d2ed160797993316392"
+    },
+    {
+      "path": "kode-sumber/docs/spesifikasi.md",
+      "bytes": 2886,
+      "sha256": "372beb23f548031d372f2bb59ef9139d7113becc83a70fb0caac0c312671021e"
+    },
+    {
+      "path": "kode-sumber/eslint.config.mjs",
+      "bytes": 424,
+      "sha256": "9d533e748de9d3943cdee0efe668c347ddb3bf3dd2ef835aaed885d3dbff6a28"
+    },
+    {
+      "path": "kode-sumber/evidence/README.md",
+      "bytes": 4037,
+      "sha256": "6cf83c8f4a435ecc13c243402f92930490f577f64bcd856ff6d69e91564daabf"
+    },
+    {
+      "path": "kode-sumber/evidence/e2e-results.json",
+      "bytes": 34254,
+      "sha256": "e99856f8c0132c6967e0abc5a1d2b9ed4ab4acdfccbc3298675d99d8934ac2d4"
+    },
+    {
+      "path": "kode-sumber/evidence/file-scenarios.json",
+      "bytes": 38784,
+      "sha256": "c0409bf35a8c134a9d62dc8d09580e42300006250eb6ecd7c30aa716cafcd3f9"
+    },
+    {
+      "path": "kode-sumber/evidence/file-scenarios.md",
+      "bytes": 4381,
+      "sha256": "966161c6e46b971425ad098bf35830645ed6022031945154d10f31e7028bc4fc"
+    },
+    {
+      "path": "kode-sumber/evidence/format-checks.json",
+      "bytes": 5409,
+      "sha256": "1f00c423e489037f1fcaeece2823e971bb4693a11a3f84ae19d3106abc1cf8d2"
+    },
+    {
+      "path": "kode-sumber/evidence/ruby-test-results.json",
+      "bytes": 67205,
+      "sha256": "c55bbfe3a96783fabfb8e91e47d19ae3ea4cc87413ed7ce9b18755a80d56cde8"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/audio-contoh.wav.dat",
+      "bytes": 32402,
+      "sha256": "6d1151c887239abafee4f9941bc314828963dd3195b42db992719086b9ae4be5"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/database-contoh.sqlite.dat",
+      "bytes": 41294,
+      "sha256": "c3a1e8e52700d6266142eea2e0c847524eb446ae4c9d3e1b83d7e6806e8f42d7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/gambar-contoh.png.dat",
+      "bytes": 27353,
+      "sha256": "cc1397b7a0c266e36f95a166a688807ee0ef32a0795e2f633497abf49d6b2c24"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/teks-contoh.txt.dat",
+      "bytes": 836,
+      "sha256": "5a4be361979b4f6d2ddb0a3e4d734dbafe78c86cb46fa9899a636b03527cef9d"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/affine/video-contoh.webm.dat",
+      "bytes": 87898,
+      "sha256": "88ac20761a642b1a9b7d5f7dfe52941715cc21febec7bdd3837e01c225c6242a"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/audio-contoh.wav.dat",
+      "bytes": 32403,
+      "sha256": "03182dfffcfdcb9b5c23e11a750ce389c6adca86deb4e904b07237d6f56158d5"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/database-contoh.sqlite.dat",
+      "bytes": 41295,
+      "sha256": "715ea7e756f0b01424611f4fc43523f7d08693501c53d12653e5703b80568672"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/gambar-contoh.png.dat",
+      "bytes": 27354,
+      "sha256": "a69f34cb5c26d186e466f70cb63b4fe024bfe7de1d47f057af12d1ad4f08784c"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/teks-contoh.txt.dat",
+      "bytes": 837,
+      "sha256": "d77ff2b0a933f109ccecbe91c47ac7c1c1661c47aa2898397cc9dbdc8d11cae7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/autokey/video-contoh.webm.dat",
+      "bytes": 87899,
+      "sha256": "f20bef4a6415e9462f60dbd3e4b8898cd01a4c495480c0a932461b23faa485af"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/audio-contoh.wav.dat",
+      "bytes": 32404,
+      "sha256": "eff2e9ec56bc88f91a53b506d64ebc3a91c500474aea5449efb53f044fe7081f"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/database-contoh.sqlite.dat",
+      "bytes": 41296,
+      "sha256": "17641e0e97da9cd0d6fe433b630a1ae18e61951529cfd843a1baec973dd59a38"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/gambar-contoh.png.dat",
+      "bytes": 27355,
+      "sha256": "7df292e64b8514ea8892fb8a6c64aa355bfff1c3795ef88017425a468a96cf50"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/teks-contoh.txt.dat",
+      "bytes": 838,
+      "sha256": "46963cf730f754a0bd86ead6230e8627951edafead6404b4e25858768432cbc9"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/enigma-i/video-contoh.webm.dat",
+      "bytes": 87900,
+      "sha256": "6556a185cc12114039792f8050d19672739c0c16f0bf996508f2794158cf22cb"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/audio-contoh.wav.dat",
+      "bytes": 16359,
+      "sha256": "3ebe927fd98a2d6718ccfed0a9dea1bbca3d88ab2a7dd97059dd319d0e2f6686"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/database-contoh.sqlite.dat",
+      "bytes": 20815,
+      "sha256": "a15b854a8fa1377120b2f12b794484fd5d4a253d815d49b000d444fc37b4331c"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/gambar-contoh.png.dat",
+      "bytes": 13835,
+      "sha256": "99365b86fc02bcf8f6eaa734f9644b04c15793564602bcfcb007f9069e6a97a0"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/teks-contoh.txt.dat",
+      "bytes": 574,
+      "sha256": "ed53c69ab8a409cc303da0d676b0d8f6bc651f546b3c9e229336464691dfef2b"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/extended-vigenere/video-contoh.webm.dat",
+      "bytes": 44108,
+      "sha256": "5d99af5682fffedb34110786bd4e5b8f48a41469d470c6f276210d97f03e82bf"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/audio-contoh.wav.dat",
+      "bytes": 32428,
+      "sha256": "4eaf096fd11cf79130def05bea7f4ae6ac16236d2b240fc4eae9294c9e1e00a0"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/database-contoh.sqlite.dat",
+      "bytes": 41322,
+      "sha256": "e73406682240b29349b26cce220d22ac5e39b68e1fca2cb525dc888eed54c04c"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/gambar-contoh.png.dat",
+      "bytes": 27380,
+      "sha256": "05e7c280943e17e32d9e9617c76b8733b8ad8d1175254102d814df75569cf1e8"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/teks-contoh.txt.dat",
+      "bytes": 864,
+      "sha256": "28e61fa330ae6331ecaa9ad072a83de4360713ba8ded8d106b6ea4de265518cd"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/hill/video-contoh.webm.dat",
+      "bytes": 87924,
+      "sha256": "04e9bea27ec0557871348811c268fb73b7e57034a95908ceec6eb3aafcacd444"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/audio-contoh.wav.dat",
+      "bytes": 39211,
+      "sha256": "ba9e3a01dc091f8ccd39c0bbe66d4cc508024b1cb705912d118257c3c2506b2c"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/database-contoh.sqlite.dat",
+      "bytes": 94314,
+      "sha256": "3c016b3707d156450bd21243d44dc497b4cb5a5eb2f06e174d9993dca0dd8292"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/gambar-contoh.png.dat",
+      "bytes": 32613,
+      "sha256": "7f8af3e1d22ca291ef943d4c68e761567a4083db1bc867724e8f99de09192cc2"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/teks-contoh.txt.dat",
+      "bytes": 1016,
+      "sha256": "544aafc67c9059cd1f342875a665e3992112d114a792db9c8de1a33a112fedba"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/playfair/video-contoh.webm.dat",
+      "bytes": 104939,
+      "sha256": "6bcf3edee1a1af97d7650e385cd5cfea61dcc40bbb99fe00c9f7611b8cf99522"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/audio-contoh.wav.dat",
+      "bytes": 16347,
+      "sha256": "57f97eefbbd4f7c7e287cfc66cd9375ea6290c851e00c68f48395a9407ec4564"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/database-contoh.sqlite.dat",
+      "bytes": 20803,
+      "sha256": "4487c910a1f232a9fdf847ec646d05c8793d0cfee3ff974036f6abeb19fc1f51"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/gambar-contoh.png.dat",
+      "bytes": 13823,
+      "sha256": "ea21c9f1007014567ff9dc889c1d8893dc89c6abb3f60be72cc83037d7f80989"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/teks-contoh.txt.dat",
+      "bytes": 562,
+      "sha256": "2e2eaf3861242c06ce984ff93663ee744e72aecaa9108263274913483100ef81"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/super/video-contoh.webm.dat",
+      "bytes": 44096,
+      "sha256": "cfe9cf29db73960b537b6ecec94a1a21b2aeaa97ac04d6322ffa19fc2bc7a7e2"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/teks/affine.dat",
+      "bytes": 269,
+      "sha256": "9454c07486c2a6194c14743cd34a85448de352c42d3d84bf387f2a05d030130a"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/teks/autokey.dat",
+      "bytes": 288,
+      "sha256": "5de855487a85f36dc44b687cbe712ade2a2b4f3131a593a75feab7ae37f14dbc"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/teks/enigma-i.dat",
+      "bytes": 269,
+      "sha256": "4e4d1539235bbc5978e1b3ac254640cd2bced8be6b1a3c8001f83655f4ed78de"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/teks/extended-vigenere.dat",
+      "bytes": 281,
+      "sha256": "a790caa46357ca42a641a360790b1104e133961503945393c7563cfb4620d6d8"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/teks/hill.dat",
+      "bytes": 301,
+      "sha256": "7993a491938d133ecd08a5fb65474f674faeebbfa43d58d499fcfe607fa13e63"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/teks/playfair.dat",
+      "bytes": 376,
+      "sha256": "ced5eaa21e76f6e1c84629eb001b2e6a0dddd520996da7f0cb08a9c620711531"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/teks/super.dat",
+      "bytes": 266,
+      "sha256": "88ceb296a0904f513224b824be4edb8776fee673b4f5c6130a4b60b56554b5f2"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/teks/vigenere.dat",
+      "bytes": 270,
+      "sha256": "df4fa53e18a41a4fca43f696f3b03149df427d40837fbb577ed2daf2e7d71857"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/audio-contoh.wav.dat",
+      "bytes": 32404,
+      "sha256": "223894ca56375a5309a030aac773fa57ddaa6566a43e88b8fc9c9a8e7e284e73"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/database-contoh.sqlite.dat",
+      "bytes": 41296,
+      "sha256": "569dcb3e53f0237f034a5a34a290f0663c6dcdb480cc27c812870de307cf3d7f"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/gambar-contoh.png.dat",
+      "bytes": 27355,
+      "sha256": "4fd8af1df8ebb7ba338f34e0f8a5ab05b2afdc5216f8d4af6f604086d24a05ad"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/pulih-audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/pulih-database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/pulih-gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/pulih-teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/pulih-video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/teks-contoh.txt.dat",
+      "bytes": 838,
+      "sha256": "17bf91f4117f81c11d55187aa9c5bc60a4851615cc931ccc00e2e02da5c04169"
+    },
+    {
+      "path": "kode-sumber/evidence/samples/vigenere/video-contoh.webm.dat",
+      "bytes": 87900,
+      "sha256": "16a4b7f0858e9fad1028bd8b9731112dbd85bf1b81e1fae8e6d46353c6b21a4d"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/01-tampilan-utama.png",
+      "bytes": 112861,
+      "sha256": "24111d04e43ab9f76ce1a602c02c4ebb5eb2978b6d06cca8c9d6d9e47a6eaa78"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/02-tema-terang.png",
+      "bytes": 112943,
+      "sha256": "6784edafd3b78337b8d8f33cc4e36a20ae1d7c2f887d9049334812d4ef868fdb"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/03-tema-terang-hasil.png",
+      "bytes": 146374,
+      "sha256": "f98b0ecfdf1ade167750425f0f815d84a9d932b1ed6e994a25b91c6d99c25111"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/dekripsi-base64-payload.png",
+      "bytes": 157139,
+      "sha256": "08bf5a1e80b759fc0510b1c63f790bb4676dd86487d4ccfe744915395be5f882"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/dekripsi-mentah-playfair.png",
+      "bytes": 144642,
+      "sha256": "36f23e5431d4c2b3d7efbd77a25a584398e98a440ad10c18fa8a0217375551bd"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-affine-dekripsi.png",
+      "bytes": 184498,
+      "sha256": "9d419c7a24c9397217e8cf666ec63c531e98910f0a76064ce158c2a7929ea75a"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-affine-enkripsi.png",
+      "bytes": 278910,
+      "sha256": "047cefd8830ef1b74e2072bac4ddf09065568108cd08dc2c083de7c8d176513d"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-autokey-dekripsi.png",
+      "bytes": 192463,
+      "sha256": "cf5e5365c5ef4bf78896b9ebf08429d96632420346f5e3d0ec4db695ef965717"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-autokey-enkripsi.png",
+      "bytes": 291398,
+      "sha256": "24e42a40f0020c1846926d331b2392ebfc8d656450c5149566a30e40e7925550"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-enigma-i-dekripsi.png",
+      "bytes": 208573,
+      "sha256": "ad81ea6f80e0e504263d78973b17293dfb83c1de6b75a2100ff0454462010454"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-enigma-i-enkripsi.png",
+      "bytes": 307993,
+      "sha256": "6c1636c634cb793919e968e65f88d90025aab5eb1eb76d789f678bc15c8539d9"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-extended-vigenere-dekripsi.png",
+      "bytes": 162078,
+      "sha256": "227c704d0b7b17cb4ea5e8a318688392775f8d7da39f82d0aa058fb336aad3b6"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-extended-vigenere-enkripsi.png",
+      "bytes": 203605,
+      "sha256": "c8306ee68eec564550fa7335ba64a2fdf792c5d2fbae4e76e631b76e7185a1e4"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-hill-dekripsi.png",
+      "bytes": 200992,
+      "sha256": "a1cf1b8752f76f94485773a7a33a2f1b078fc689c40737a1d373f4b1238aa7a6"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-hill-enkripsi.png",
+      "bytes": 297504,
+      "sha256": "96c939bcb6cdae1bb8efc0f8c5e72d67c4cf5d760196ff57b110d960bdda3b05"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-playfair-dekripsi.png",
+      "bytes": 198228,
+      "sha256": "26fe615875c8ee153074d7cd0d7c7138473058002676991aabd1ceb510dc1bb2"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-playfair-enkripsi.png",
+      "bytes": 296636,
+      "sha256": "f1c5f90665b9f6267e507702b2b617819ec7613c988528d50c50cd1c27e6b38b"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-super-dekripsi.png",
+      "bytes": 204452,
+      "sha256": "3d7d3f97195132f60d08e4b526e3bac24421750cde9352253c99d6d90c8f30b8"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-super-enkripsi.png",
+      "bytes": 244811,
+      "sha256": "9c4766d38e53804d2a140fb676d88849bf5991eef878ae0754ad380f6c1643c5"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-vigenere-dekripsi.png",
+      "bytes": 165788,
+      "sha256": "f318c79e798e2639cc0695a3d5eb5b49e6eebf5ff7addbce238dfa6b55a58094"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/file-vigenere-enkripsi.png",
+      "bytes": 252536,
+      "sha256": "c138dc52357f47c06ed2931a06f1fa022cac67abe516eae137f1056324222bb1"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/hasil-lama-ditandai.png",
+      "bytes": 150909,
+      "sha256": "8585c0febb45fc87c5171f2da73449ea1ebd8ff2d47f68fb950a069d1bea19dd"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/info-super-enkripsi.png",
+      "bytes": 116387,
+      "sha256": "dc86adf56da533adb16e5ba66b16381c9731fc7de4b6cbbae9c0608e1f73a84a"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/layar-sempit-enigma.png",
+      "bytes": 473262,
+      "sha256": "5ecb00de6c8c1348f0317f46af67b3c48c3d9f97ca5018d9a907a840794ec516"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/layar-sempit.png",
+      "bytes": 520159,
+      "sha256": "478c453e840cb4c776aadf463f228d25af79c0c4201ef0f2ce385f49de855e4c"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-affine-dekripsi.png",
+      "bytes": 133880,
+      "sha256": "549acc0b8fef82b3719d73ad45456c341b0f6c40b04e5416b62209dd8e446d6c"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-affine-enkripsi.png",
+      "bytes": 138011,
+      "sha256": "bb5f687e6679da3d0d43eb25355b70e637d05e70abe0f8fceeff410bca147e7b"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-autokey-dekripsi.png",
+      "bytes": 141909,
+      "sha256": "2cfef2a00b22bfc8d847b63607aa61bf347c18512e5188f46c5b6a3f3671a641"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-autokey-enkripsi.png",
+      "bytes": 144249,
+      "sha256": "5325b063d3590de2a567a0576519620ffd2dcc6439874dcffc05abdf62733f19"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-enigma-i-dekripsi.png",
+      "bytes": 156366,
+      "sha256": "5d0069733292e21763af6d7579325f63a9cfb2e3deb78eedcaa035f7399b05a0"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-enigma-i-enkripsi.png",
+      "bytes": 162987,
+      "sha256": "aefdc8a7c0f8ed6878664bc5c86acac364ea85446473ed3967b970f28dac32e0"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-extended-vigenere-dekripsi.png",
+      "bytes": 140790,
+      "sha256": "2834a75f50da8982c7cfb88b235169268c28f6c21a710c4bf2915ea98e348d0a"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-extended-vigenere-enkripsi.png",
+      "bytes": 135425,
+      "sha256": "ac0665a458d4dfd92c6f8a578e45fe2880df85492b04e3facd184bc7e7550397"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-hill-dekripsi.png",
+      "bytes": 152803,
+      "sha256": "653ba53a8f110154f3b84a0ac3eedd99f6dcce412da8a0260e058585791833bb"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-hill-enkripsi.png",
+      "bytes": 153966,
+      "sha256": "c7f0c66629606280b3192d7c12ddaa85f2fe3be26546a1ce24077b2e39d20a53"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-playfair-dekripsi.png",
+      "bytes": 149025,
+      "sha256": "ffd7cd472cc82d14fc9f2b62c40445c1210eb6e40baa979b23e68f69b7a65c42"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-playfair-enkripsi.png",
+      "bytes": 159103,
+      "sha256": "ccdb1caa78964f9d7828d30c9666a121ed2f4ad30e5ea6a8c7bdb104f7a6b3c9"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-super-dekripsi.png",
+      "bytes": 151460,
+      "sha256": "b81cd038b0c64f162774f45065add8ca3b8ff1cd8cbb3d455be7a31bc1f35f9b"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-super-enkripsi.png",
+      "bytes": 149126,
+      "sha256": "8acf277f9b208bec6d7d115cc9a14544db3f077347534e526ac40f9fca27bfd6"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-vigenere-dekripsi.png",
+      "bytes": 143386,
+      "sha256": "9bf0a7b63253ebb057d424db527ba868b3147ddbbc4f35b4ddd1ed4fe92d33b8"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/teks-vigenere-enkripsi.png",
+      "bytes": 144995,
+      "sha256": "b0e6d71ae04366ad731b4cde88c82c1b76b9ff1d9bf7eb42c381982ef9ac90b7"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/validasi-affine.png",
+      "bytes": 115546,
+      "sha256": "3a87817b7ee8c8e5e37979b7dc599a318760c6fb5fe5500f20acb01530ae610d"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/validasi-enigma-plugboard.png",
+      "bytes": 170456,
+      "sha256": "7816aad73d81520dca982b63ccb92c84786c86cf3d3fdcf62cc25e53a6eb276b"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/validasi-hill.png",
+      "bytes": 116492,
+      "sha256": "56651497602c4e7d88515a1b15931a1017287d659cbe017db53d62cf5d84d227"
+    },
+    {
+      "path": "kode-sumber/evidence/screenshots/validasi-kunci-salah.png",
+      "bytes": 133579,
+      "sha256": "1187f0c9370baabb2e9df11c111be2771ef82df796c2f5dc39d2aa058221d9be"
+    },
+    {
+      "path": "kode-sumber/evidence/text-examples.json",
+      "bytes": 9168,
+      "sha256": "daa1a044e216945d0ba4127e61f91202110cdd3d83777d5661dcdf4134890f4f"
+    },
+    {
+      "path": "kode-sumber/evidence/unit-test-results.json",
+      "bytes": 73444,
+      "sha256": "3a0a402dfb226b25814b6d934e66777fd67af92bde599cae9f3aa51971382010"
+    },
+    {
+      "path": "kode-sumber/fixtures/audio-contoh.wav",
+      "bytes": 16044,
+      "sha256": "b5d248cecc2eb1eec4abdbb0b37512a027ac8d810c4c3d058f20aa844b095c46"
+    },
+    {
+      "path": "kode-sumber/fixtures/database-contoh.sqlite",
+      "bytes": 20480,
+      "sha256": "c7676535471569066680dfaa23bc3267d6e1abad1ea5f746f3b6609ea7358669"
+    },
+    {
+      "path": "kode-sumber/fixtures/gambar-contoh.png",
+      "bytes": 13519,
+      "sha256": "c2cd2cf09c21cde6bb3443a1c5156bd8d51c34556a637710c0570a9f031feec7"
+    },
+    {
+      "path": "kode-sumber/fixtures/teks-contoh.txt",
+      "bytes": 263,
+      "sha256": "d13859ef429e1012ee1d7b50a4fab44631162d8e544ae38d8efbdcd81e163f68"
+    },
+    {
+      "path": "kode-sumber/fixtures/video-contoh.webm",
+      "bytes": 43791,
+      "sha256": "e54006297a99c9d8ced50d331f7f6c989238bab2bc5041890397f60b858366ed"
+    },
+    {
+      "path": "kode-sumber/next-env.d.ts",
+      "bytes": 295,
+      "sha256": "1b59d4c6b83807db275d43f3cf2cc8e9323f465fab764eea091cc5becd5bad37"
+    },
+    {
+      "path": "kode-sumber/next.config.ts",
+      "bytes": 248,
+      "sha256": "6f1d0696ce3efb052f2bb4004731e2eafaa19f0f4741e0978f672a3c7f929b09"
+    },
+    {
+      "path": "kode-sumber/package.json",
+      "bytes": 1281,
+      "sha256": "9cd55aad9f0410e847837f343fb4c900ed17212c392387690345208bdb67a207"
+    },
+    {
+      "path": "kode-sumber/playwright.config.ts",
+      "bytes": 716,
+      "sha256": "cd1d88234a5622456e9f094ad70c72c79e73c35e77905f2103ae60ee293d55b3"
+    },
+    {
+      "path": "kode-sumber/pnpm-lock.yaml",
+      "bytes": 143856,
+      "sha256": "7c509d3c6fea9cb6f8d15b456b3c6682be18632757975f36ca77e249d24119f2"
+    },
+    {
+      "path": "kode-sumber/scripts/check-denylist.mjs",
+      "bytes": 1073,
+      "sha256": "8d2a5989e8f42435b11d22444507119cfede286e4a1d12a28a031d37706a0be8"
+    },
+    {
+      "path": "kode-sumber/scripts/dev.mjs",
+      "bytes": 1209,
+      "sha256": "d2cb7302b29fb7c092cfe96b075eb5a0ed064fea5cf54d2d18355637ba756bf6"
+    },
+    {
+      "path": "kode-sumber/scripts/generate-report-materials.mjs",
+      "bytes": 13063,
+      "sha256": "ad54213d22ef8a944e6dab5c4111c9a1a0049279576ac81aba7db930516776f0"
+    },
+    {
+      "path": "kode-sumber/scripts/generate-video.mjs",
+      "bytes": 2493,
+      "sha256": "5e57aed9809bd91a4b30a08f930245b77672cdcd3abc59fa36d5b157bd3c6c8b"
+    },
+    {
+      "path": "kode-sumber/scripts/generate_fixtures.py",
+      "bytes": 3236,
+      "sha256": "7737fe389d3da7cb427602e9c10581390dff689938680062a0f2a653abcc5f97"
+    },
+    {
+      "path": "kode-sumber/scripts/ruby-service.mjs",
+      "bytes": 4902,
+      "sha256": "0c697a0f6cd3e5b5fefb15b242091d2d483db6466ae3540bc96b79350c26c512"
+    },
+    {
+      "path": "kode-sumber/scripts/run-rspec.rb",
+      "bytes": 220,
+      "sha256": "e755d8799aae27c941c95215a41801d6165a7dd94a06f22fd51ac21e5efa22f6"
+    },
+    {
+      "path": "kode-sumber/scripts/serve-api.rb",
+      "bytes": 210,
+      "sha256": "9f01cafd6dbb85521904f4e938824f5c1006d574a11b6baee735446e8f7eccb8"
+    },
+    {
+      "path": "kode-sumber/scripts/test-ruby.mjs",
+      "bytes": 1121,
+      "sha256": "8920aa9ad7d41825a9d418a481b36346d787f84a8614af5ebd0d805e8c8faeef"
+    },
+    {
+      "path": "kode-sumber/scripts/verify_samples.py",
+      "bytes": 3246,
+      "sha256": "da654106df3138e4bd420f18b1bde15ce2996ba88d83852772817b083a676a5d"
+    },
+    {
+      "path": "kode-sumber/scripts/with-ruby.mjs",
+      "bytes": 1092,
+      "sha256": "5b5e2339575d197a2efcf1e10b534bdac11a06d32cdacd62da29a127b0b0217b"
+    },
+    {
+      "path": "kode-sumber/security/malicious-packages.txt",
+      "bytes": 13021,
+      "sha256": "5b2f6dfac44c6408806028ba76804ca2aaf33ca4b8ff4cfe56087ebd097cf766"
+    },
+    {
+      "path": "kode-sumber/src/app/api/crypto/decrypt/route.ts",
+      "bytes": 217,
+      "sha256": "90a5f1161605f88bf172afd3b67be1cca759549814f24bdd312b54fcd467aad4"
+    },
+    {
+      "path": "kode-sumber/src/app/api/crypto/encrypt/route.ts",
+      "bytes": 217,
+      "sha256": "6319d20ac3234457fc98a9ba674665d23435eb8762ef2b50e42ec267d78aabd4"
+    },
+    {
+      "path": "kode-sumber/src/app/api/crypto/inspect/route.ts",
+      "bytes": 217,
+      "sha256": "4af9b637f110c512ba2aa3d9d9b17111a5eca62781ae73caa7c4f47e085edfec"
+    },
+    {
+      "path": "kode-sumber/src/app/api/crypto/proxy.ts",
+      "bytes": 3715,
+      "sha256": "69c9bc06e924e9bc459addadefcd95d3a2e11bd752b1d75d785bd8b928c4e138"
+    },
+    {
+      "path": "kode-sumber/src/app/globals.css",
+      "bytes": 24139,
+      "sha256": "71efe972d4ca254e777e8df48feebb89175c21b8dad0ff2ac901e77cb439df80"
+    },
+    {
+      "path": "kode-sumber/src/app/icon.svg",
+      "bytes": 842,
+      "sha256": "b28ff888a6e19abfdc57a9b0c7a1ba74ce017ae9045c0ec3770a370834a5dbeb"
+    },
+    {
+      "path": "kode-sumber/src/app/layout.tsx",
+      "bytes": 1132,
+      "sha256": "b2887d6803ed606bd31e67a23863172495e2ea1dcc06a9c38f3a7d5d96edb9ce"
+    },
+    {
+      "path": "kode-sumber/src/app/page.tsx",
+      "bytes": 109,
+      "sha256": "f98143e70079a1d33f7d8ca71d6f08449744b1eccd5852ce0793eb3f8ff69bad"
+    },
+    {
+      "path": "kode-sumber/src/components/AppShell.tsx",
+      "bytes": 7168,
+      "sha256": "2735ae440c12e698c56f057653d6b2ffb24e2aabeff76c393f0ee4ddca8188f7"
+    },
+    {
+      "path": "kode-sumber/src/components/CipherPicker.tsx",
+      "bytes": 7749,
+      "sha256": "269fab30b57e8a4784ff0c84f1eb638dd37066ed0bfef2daa8884d0b9b033827"
+    },
+    {
+      "path": "kode-sumber/src/components/Icons.tsx",
+      "bytes": 5010,
+      "sha256": "d55020ecc70b67cf6d420d6accea648028fe6b89ad7970d076360cc782c95edc"
+    },
+    {
+      "path": "kode-sumber/src/components/KeyFields.tsx",
+      "bytes": 13296,
+      "sha256": "01428f5d083d6986bc6d48f8c8fc239d7c087d3990b2b948b8d2a8d9ee25f297"
+    },
+    {
+      "path": "kode-sumber/src/components/Output.tsx",
+      "bytes": 2925,
+      "sha256": "b53f9d96a3d1aaf3e2fea9a6a49d6bffe07edfca0d84042a32d1b77d96f76e7b"
+    },
+    {
+      "path": "kode-sumber/src/components/ResultViews.tsx",
+      "bytes": 10971,
+      "sha256": "e0895ba7ae0c40385ac237e28ada66aca010db50e905367bfdace04ddc69e339"
+    },
+    {
+      "path": "kode-sumber/src/components/ThemeToggle.tsx",
+      "bytes": 1640,
+      "sha256": "b7cca3bbce449c83111373805bc3d6ff38a684351cbe7148f0e8b964b39b303f"
+    },
+    {
+      "path": "kode-sumber/src/components/Workbench.tsx",
+      "bytes": 30980,
+      "sha256": "a7ac80eb8da4f6ea6c774ddd0c9474e5e4560dbd58ce88c70ae3b101e8b9ba18"
+    },
+    {
+      "path": "kode-sumber/src/components/download.ts",
+      "bytes": 1178,
+      "sha256": "ebe5e639530a6162d759e001f2376a87ef2f0d0ca8f0e9987f4e7c7a1d7487fc"
+    },
+    {
+      "path": "kode-sumber/src/lib/codecs/alpha25.ts",
+      "bytes": 1936,
+      "sha256": "e13682fdcf8f1e13226828b7a7279e29eded1ec15b231ad4cfae540b3d22f8a1"
+    },
+    {
+      "path": "kode-sumber/src/lib/codecs/alphabet.ts",
+      "bytes": 2505,
+      "sha256": "187380c20a2409092b56eb32c25e0e13b7c7f28d8bd88bf9b062850ae6481170"
+    },
+    {
+      "path": "kode-sumber/src/lib/codecs/base64.ts",
+      "bytes": 4086,
+      "sha256": "dea9563f5fb3a7cb1779b61e90b349ec52cbf4b7e0381657ae1ba12f51dcc6c6"
+    },
+    {
+      "path": "kode-sumber/src/lib/codecs/bitset.ts",
+      "bytes": 901,
+      "sha256": "81ed74db88627ed7aee39814998910f1b59dbb5a4d2254d0e709c763d587ead7"
+    },
+    {
+      "path": "kode-sumber/src/lib/codecs/utf8.ts",
+      "bytes": 430,
+      "sha256": "fa7de46231d988e9a69a1f20378245b6c3777048b329f2f6bb3bc152f825d113"
+    },
+    {
+      "path": "kode-sumber/src/lib/container/checksum.ts",
+      "bytes": 435,
+      "sha256": "3ea3897270ae730f1c9d8fa110b9cb7a789edc15967e9364ead10a4c8a59f700"
+    },
+    {
+      "path": "kode-sumber/src/lib/container/format.ts",
+      "bytes": 3188,
+      "sha256": "5849df530de890ade8bd18777cdd97be530cc13b3e909bf2eac11041f81845f9"
+    },
+    {
+      "path": "kode-sumber/src/lib/container/metadata.ts",
+      "bytes": 8837,
+      "sha256": "72f2948652e403d08a5b483ae727e8568dfd109eecf0bd1225e8c5ff14802b64"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/affine.ts",
+      "bytes": 1207,
+      "sha256": "398ffda6d55eaced60896b46a26868cfe800af9c34c5c5432ac93e305a1d303c"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/autokey.ts",
+      "bytes": 1124,
+      "sha256": "007580b59fab9a0ebc212cc963c60c49ba6af19f86276c0ee85e1860ec6b421d"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/ciphers.ts",
+      "bytes": 1887,
+      "sha256": "aa8a0be241eb91410ba742c8e3aab27fca01230028da9d08fe9501a9a24b98bb"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/errors.ts",
+      "bytes": 344,
+      "sha256": "3f200aaa6e5d917616c9ac3ecac03e7cda3022cf20801e156ba64aa84f991710"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/extended-vigenere.ts",
+      "bytes": 840,
+      "sha256": "da64a205468f253052b4fd345144ab4bd28a388ae46307527d0789a443fdf196"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/hill.ts",
+      "bytes": 4933,
+      "sha256": "88c68868600b413b801159c98ee624bb0f1f03849fc92b0debec71f50bfd254a"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/modular.ts",
+      "bytes": 730,
+      "sha256": "ea33f797ca3b2b09e9464e414c609e9b209d3cfe7af5052273320a06825a3e70"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/playfair.ts",
+      "bytes": 5790,
+      "sha256": "33ce9ddbe35f9b84e83cad52309f9b96e48131b40c270b063b6e0a727228c715"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/super-encryption.ts",
+      "bytes": 1144,
+      "sha256": "d96112edfe583ca2daf4be09711fdfc574ef84e2634c78b570bfa0b5bc189bdc"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/transposition.ts",
+      "bytes": 1477,
+      "sha256": "8a65f3e4b1172e6b86ab4bc797291c55258b9b65233381aa81b11015091ed3c9"
+    },
+    {
+      "path": "kode-sumber/src/lib/crypto/vigenere.ts",
+      "bytes": 786,
+      "sha256": "0d4497318db98f503108054e63ca1874399c7945fb43e0f64c93ebce52d1ee71"
+    },
+    {
+      "path": "kode-sumber/src/lib/engine/client.ts",
+      "bytes": 2119,
+      "sha256": "a3930ba264e78ca630d3f043e0a8f744f76e5b206a5baf90f64416ac8aa129fe"
+    },
+    {
+      "path": "kode-sumber/src/lib/engine/decrypt.ts",
+      "bytes": 163,
+      "sha256": "0b966ccd00695d125eef824539a419f17e2388cf762e4f7714ec2c749e986ee7"
+    },
+    {
+      "path": "kode-sumber/src/lib/engine/encrypt.ts",
+      "bytes": 133,
+      "sha256": "ee115e3d9507db6b935f1ef19fd22affbbb1a2f3e6d2783b3e8476600dca5ab4"
+    },
+    {
+      "path": "kode-sumber/src/lib/engine/http.ts",
+      "bytes": 5226,
+      "sha256": "06b8c8b522c142b38d0209e5d611f744701595a2c2d92fc525128e82676ab24f"
+    },
+    {
+      "path": "kode-sumber/src/lib/engine/letters.ts",
+      "bytes": 5306,
+      "sha256": "2c7c4d865db3ab6205fb48ec0eca5d2041bb22a2a8d03d2541aad8f24df02e7b"
+    },
+    {
+      "path": "kode-sumber/src/lib/engine/types.ts",
+      "bytes": 2200,
+      "sha256": "101d5d1e126901a34d6f5e5b2c8f484636feddeb78cbbfb940433e7dec497aa2"
+    },
+    {
+      "path": "kode-sumber/src/lib/validation/keys.ts",
+      "bytes": 12272,
+      "sha256": "a108cd9e74e96511960ab6d63fdfdd5ddcde4422b62c2b900b58f51049e37cf5"
+    },
+    {
+      "path": "kode-sumber/src/workers/crypto.worker.ts",
+      "bytes": 1327,
+      "sha256": "2eaefcdcddc64df697e407884846eea3547ffa4df5a4775bfc6c5a5f22376e96"
+    },
+    {
+      "path": "kode-sumber/src/workers/protocol.ts",
+      "bytes": 1408,
+      "sha256": "e62e88d6ea759cb55f69183a3536ccab8341a646af926c97943082f46fb362d4"
+    },
+    {
+      "path": "kode-sumber/tests/e2e/app.spec.ts",
+      "bytes": 25278,
+      "sha256": "c9f129bdd39f941c0bad86fdafa6a106023966566fce7ff3fa62454c08c457d6"
+    },
+    {
+      "path": "kode-sumber/tests/evidence/scenarios.test.ts",
+      "bytes": 10429,
+      "sha256": "e700f5aa6f843dab48be39c6e2f80ad67ede7421ffecf628f2541e08a8ef0df5"
+    },
+    {
+      "path": "kode-sumber/tests/migration/README.md",
+      "bytes": 736,
+      "sha256": "5215d16281d4574b3db2d8a4f62d5a86c774ef5f25f4c9cbab2c25badc97ea5d"
+    },
+    {
+      "path": "kode-sumber/tests/migration/legacy-typescript-v1.json",
+      "bytes": 33570,
+      "sha256": "3cf2d6e546c9574df052b6b86acec252abb6563af5a66f0e81f3226d9deeedc4"
+    },
+    {
+      "path": "kode-sumber/tests/unit/api-client.test.ts",
+      "bytes": 8976,
+      "sha256": "3914883780420a608063fb46b999b585f3cee35b1f866be8f91b0d8e8425fb92"
+    },
+    {
+      "path": "kode-sumber/tests/unit/container-files.test.ts",
+      "bytes": 8156,
+      "sha256": "73e0970b07783a953a99385d412abc2b8a5a403ddc03ef0a4358ce0edfecfaee"
+    },
+    {
+      "path": "kode-sumber/tests/unit/edge-cases.test.ts",
+      "bytes": 12087,
+      "sha256": "77e2c591ddec9695d00a74fdd0ad7e7634eed61b40a9e5694417f6aca7bdb20d"
+    },
+    {
+      "path": "kode-sumber/tests/unit/helpers.ts",
+      "bytes": 1847,
+      "sha256": "2a87b2d173d67073a7b982545d4d18de0e4df6663cf3cddd1e6122f3dc4cee50"
+    },
+    {
+      "path": "kode-sumber/tests/unit/migration-compatibility.test.ts",
+      "bytes": 2248,
+      "sha256": "bc36704ab6e3ec228b07935a37d220bb543a1ff59ed31931c727f8c632feb17c"
+    },
+    {
+      "path": "kode-sumber/tests/unit/vectors.test.ts",
+      "bytes": 4287,
+      "sha256": "0befbb5d267a0ece8302069c32eca27f265f2f78ff27e2c38375f882d24a8564"
+    },
+    {
+      "path": "kode-sumber/tsconfig.json",
+      "bytes": 689,
+      "sha256": "7ca7ca34c8440ac884eb5056775b9ec739fa1ca83c6d9a325fdce04a2eab2ed4"
+    },
+    {
+      "path": "kode-sumber/vitest.config.ts",
+      "bytes": 415,
+      "sha256": "32826124c9faf6058ede494f419bc278712369fd4e07fd96d7c877f17216ab9d"
+    },
+    {
+      "path": "kode-sumber/vitest.evidence.config.ts",
+      "bytes": 471,
+      "sha256": "061d31de5ea3e5d6f33f9dbffdb6e0af477e6019cfd7f51a259ab8a2a901f4fd"
+    },
+    {
+      "path": "rujukan/Soal_UTS_Kriptografi_20261.pdf",
+      "bytes": 273524,
+      "sha256": "0971d5ba64e36f403599f3e54bd8502d86d3da1636d240d11eb9b270f6111616"
+    },
+    {
+      "path": "tools/compose_report.py",
+      "bytes": 27019,
+      "sha256": "03c1978e8e81e14e9ac0475d4c861903e43bddc7f079bef3fee72f3cf3444392"
+    },
+    {
+      "path": "tools/package_report.py",
+      "bytes": 34016,
+      "sha256": "0de016201456301b3c538d2b95518170d712181c99dc9ed7d6e93df43672558f"
+    }
+  ]
+}
