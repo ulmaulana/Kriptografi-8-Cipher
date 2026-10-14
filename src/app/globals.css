@@ -164,40 +164,6 @@ h3 {
   background: repeating-linear-gradient(-60deg, transparent 0 9px, var(--line-strong) 9px 10.5px);
 }
 
-.local-badge {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  padding: 10px 18px;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: var(--panel);
-}
-
-.local-dot {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: var(--accent);
-  box-shadow: 0 0 10px var(--accent);
-}
-
-.local-badge strong {
-  display: block;
-  font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.local-badge span {
-  display: block;
-  font-size: 10.5px;
-  color: var(--muted);
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
 .navbar {
   display: flex;
   align-items: stretch;
@@ -1424,10 +1390,6 @@ select.input {
 
   .topbar-hatch {
     display: none;
-  }
-
-  .local-badge {
-    width: 100%;
   }
 
   .tab {

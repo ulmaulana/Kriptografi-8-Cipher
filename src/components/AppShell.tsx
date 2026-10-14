@@ -146,13 +146,6 @@ export function AppShell() {
           </div>
         </div>
         <div className="topbar-hatch" aria-hidden="true" />
-        <div className="local-badge">
-          <span className="local-dot" aria-hidden="true" />
-          <div>
-            <strong>Mesin Ruby</strong>
-            <span>Pesan dan file diproses server</span>
-          </div>
-        </div>
       </header>
 
       <div className="navbar">
