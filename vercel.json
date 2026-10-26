@@ -15,7 +15,10 @@
     },
     "ruby_api": {
       "root": "apps/api/",
-      "entrypoint": "config.ru"
+      "entrypoint": "config.ru",
+      "rewrites": [
+        { "source": "/(.*)", "destination": "/" }
+      ]
     }
   },
   "rewrites": [
