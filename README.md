@@ -8,7 +8,7 @@ Pastikan perangkat berikut sudah terpasang dan bisa dipanggil dari terminal.
 
 - Node.js 22.12 atau lebih baru
 - pnpm 10
-- Ruby 3.2 atau lebih baru (di bawah 4.0) beserta Bundler
+- Ruby 3.3 atau lebih baru (di bawah 4.0) beserta Bundler
 
 ## 1. Pasang dependensi proyek
 
@@ -57,6 +57,24 @@ Pada cipher huruf, angka, spasi, dan tanda baca dibuang sebelum enkripsi. Karena
 5. Unduh file hasil. Nama dan ekstensinya kembali seperti file asal.
 
 Untuk Enigma, kunci berupa pengaturan rotor, ring setting, posisi awal, reflector, dan plugboard. Dekripsi harus memakai pengaturan awal yang sama dengan saat enkripsi.
+
+## 5. Hosting di Vercel
+
+Berkas `vercel.json` menyiapkan dua service dalam satu proyek Vercel tanpa Docker.
+
+- `web` menjalankan Next.js dan menerima seluruh trafik publik.
+- `ruby_api` menjalankan `apps/api/config.ru` dengan runtime Ruby bawaan Vercel. Service ini tidak punya alamat publik dan hanya dipanggil oleh `web`. Vercel mengisi alamatnya ke variabel `RUBY_API_URL` secara otomatis.
+
+Langkah deploy:
+
+1. Push repositori ke GitHub, lalu impor repositori tersebut sebagai proyek baru di Vercel.
+2. Biarkan **Root Directory** berisi `./` dan **Application Preset** berisi **Services**. Jangan memakai tombol **Import single project**.
+3. Kosongkan **Environment Variables**, lalu tekan **Deploy**.
+
+Batasan versi Vercel:
+
+- Runtime Ruby Vercel memakai Ruby 3.3. Karena itu `apps/api/Gemfile` mensyaratkan Ruby `~> 3.3`.
+- Vercel membatasi request dan respons fungsi sebesar 4,5 MB. Respons enkripsi memuat Base64 plainteks, payload, dan paket sekaligus. Perkiraan dari ukuran respons, batas file sekitar 600 KB untuk cipher huruf (Playfair bisa lebih kecil karena huruf pengisi) dan sekitar 1 MB untuk Extended Vigenere serta Super Enkripsi. File yang lebih besar tetap dapat diproses saat aplikasi dijalankan secara lokal.
 
 ## Jika ada kendala
 

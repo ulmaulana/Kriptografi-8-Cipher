@@ -13,7 +13,9 @@ module UtsCrypto
     set :raise_errors, false
     set :logging, false # Request bodies and keys are never logged.
     set :dump_errors, false
-    set :host_authorization, { permitted_hosts: ["localhost", "127.0.0.1", "::1", "example.org"] }
+    # Comma-separated override for deployments behind a private proxy; "*" permits any host.
+    PERMITTED_HOSTS = ENV.fetch("API_PERMITTED_HOSTS", "localhost,127.0.0.1,::1,example.org").split(",").map(&:strip).reject(&:empty?)
+    set :host_authorization, { permitted_hosts: PERMITTED_HOSTS.include?("*") ? [] : PERMITTED_HOSTS }
 
     before do
       content_type :json

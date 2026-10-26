@@ -1,0 +1,24 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "web": {
+      "root": "./",
+      "framework": "nextjs",
+      "bindings": [
+        {
+          "type": "service",
+          "service": "ruby_api",
+          "format": "url",
+          "env": "RUBY_API_URL"
+        }
+      ]
+    },
+    "ruby_api": {
+      "root": "apps/api/",
+      "entrypoint": "config.ru"
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": { "service": "web" } }
+  ]
+}
